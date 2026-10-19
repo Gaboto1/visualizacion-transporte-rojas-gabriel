@@ -47,7 +47,7 @@ def aplicar_estilo() -> None:
         "axes.labelcolor": TINTA_2,
         "axes.titlecolor": TINTA,
         "axes.titlesize": 13,
-        "axes.titleweight": "semibold",
+        "axes.titleweight": "bold",
         "axes.titlelocation": "left",
         "axes.labelsize": 10,
         "axes.edgecolor": EJE,

@@ -25,3 +25,7 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
+# Datos procesados de gran tamaño (se regeneran ejecutando el notebook)
+data/processed/*.parquet
+data/processed/_benchmark_formatos/

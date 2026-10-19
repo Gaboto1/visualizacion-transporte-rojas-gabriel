@@ -1,0 +1,26 @@
+variable,tipo,dimensión/medida/ID,cardinalidad,función en el análisis
+matricula,categórica nominal (identificador),ID,13833,Identifica la aeronave; sólo como medida (aeronaves distintas)
+numero_vuelo,categórica nominal (código),ID,7408,No se usa: 42 % ausente y sin identificador único de vuelo
+dt_operacion,temporal,Dimensión,6527475,Instante de la operación (UTC inequívoco)
+fecha_local,temporal,Dimensión,6526242,Fecha/hora de reloj del aeródromo; raíz de la jerarquía temporal
+anio,numérica discreta / temporal,Dimensión,28,"Evolución anual (P2, H1); facetas"
+mes,categórica ordinal / temporal,Dimensión,12,Estacionalidad (P2)
+hora_local,categórica ordinal / temporal,Dimensión,24,Perfil horario (P3)
+dia_semana,categórica ordinal / temporal,Dimensión,7,Disponible; no se grafica
+aeropuerto_oaci,espacial (categórica nominal),Dimensión,69,Comparación entre aeródromos (P1)
+aeropuerto_nombre,textual,Dimensión (etiqueta),69,Etiqueta legible de aeropuerto_oaci
+region_iso,espacial (categórica nominal),Dimensión,17,Nivel superior de la jerarquía territorial
+aeropuerto_dgac_orig_dest,espacial (categórica nominal),Dimensión,1671,"Origen/destino; alta cardinalidad, no se grafica"
+tipo_operacion,categórica nominal,Dimensión,3,Filtro (A/D vs W)
+ambito,categórica nominal (binaria),Dimensión,2,"Doméstico vs internacional (P1, H1); color"
+actividad_cod,categórica nominal,Dimensión,26,Motivo del vuelo (nivel detallado)
+grupo_actividad,categórica nominal,Dimensión,8,Motivo del vuelo agregado (P3); facetas
+aerolinea_dgac,categórica nominal,Dimensión,2558,Alta cardinalidad; no se grafica
+modelo_avion,categórica nominal,Dimensión,1233,Referencia para validar PMD
+modelo_avion_desc,textual,Dimensión (etiqueta),2323,Descripción libre; no se usa
+categoria_estela,categórica ordinal,Dimensión,3,Tamaño de aeronave discretizado
+es_internacional,categórica nominal (booleana),Dimensión,2,Origen de ambito
+es_vuelo_local,categórica nominal (booleana),Dimensión,2,Distingue circuitos locales
+pmd,numérica continua,Medida,765,Tamaño de la aeronave (t); distribución (P3)
+n_operaciones (conteo de filas),numérica discreta,Medida,,Medida principal: volumen de operaciones
+aeronaves_distintas (nunique matrícula),numérica discreta,Medida,,Tamaño de flota activa

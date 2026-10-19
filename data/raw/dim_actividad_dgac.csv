@@ -1,0 +1,29 @@
+codigo,descripcion,tipo
+A,Prospección Pesquera,Comercial
+B,Prospección Minera,Comercial
+C,Otras Prospecciones,Comercial
+D,Fumigaciones,Comercial
+E,Tratamiento de Nubes,Comercial
+F,Extinción de Incendios,Comercial
+G,Patrullajes No Militares,Comercial
+H,Repoblación de Animales,Comercial
+I,Fotos Aéreas/Topografías,Comercial
+J,Observaciones Metereológicas,Comercial
+K,Periodismo y Filmaciones,Comercial
+L,Inspecciones de Obras,Comercial
+M,Propaganda Aérea,Comercial
+N,Ambulancia Aérea,Comercial
+O,Instrucción,Comercial
+P,Deportivas,General
+Q,Fiscales,Otros
+R,Particulares,Otros
+S,Militares,Militar
+T,Carga,Comercial
+U,"Pasajeros (transporte de pasajeros, carga y correo)",Comercial
+V,Vuelos Demostrativos / Exhibiciones,General
+W,Sobrevuelos,Otros
+X,"Vuelo de Traslado / Posicionamiento (sin pasajero, carga o correo)",Otros
+Y,Vuelos de Pruebas,Comercial
+Z,Vuelos Ferry o de Traslado,Comercial
+2,Policial,General
+1,Frustrada (aterrizaje no concretado),Otros

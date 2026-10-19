@@ -1,0 +1,152 @@
+oaci,iata,grupo_cod,nombre,grupo_desc,es_carga,pais_iso_alpha2,vigente_hasta
+AUZ,Z7,AZN,Amaszonas Uruguay,Amaszonas,false,UY,
+TAU,C5,,Asociados Latinamericanos de Transporte Aereo (A.L.T.A.),,false,CL,2024-10-31T00:00:00.000
+ROE,,,Aeroeste,,false,BO,
+TVS,QS,,Smartwings,,false,CZ,
+EJA,,,NetJets,,false,US,
+RZO,S4,,SATA International,,false,PT,
+LXJ,,,Flexjet,,false,US,
+MGL,OM,,MIAT Mongolian Airlines,,false,MN,
+DYA,,,Dynamic Airways,,false,US,
+KSZ,,,Sunrise Airways,,false,HT,
+ADB,,,Antonov Airlines,,false,UA,
+NCR,N8,,National Air Cargo,,true,US,
+AWC,ZT,,Titan Airways,,false,GB,
+TOM,BY,,TUI Airways,,false,GB,
+PVN,P9,PVN,Peruvian Airlines,Peruvian,false,PE,2019-10-30T00:00:00.000
+BOV,OB,BOA,Boliviana de Aviación (OB),BoA,false,BO,
+CKK,CK,,China Cargo Airlines,,true,CN,
+AIB,AP,,Airbus Industrie,,false,FR,2014-08-06T20:51:00.001
+CJT,W8,,Cargojet Airways,,true,CA,
+QAC,,QTR,Qatar Air Cargo,Qatar Airways,true,QA,
+RER,,,Servicio Aereo Regional Regair,,false,EC,
+QCL,VZ,ACL,Air Class,Air Class,true,UY,
+VDA,VI,,Volga-Dnepr Airlines,,false,RU,
+VCV,V0,CON,Conviasa,Conviasa,false,VE,
+SRU,2I,SRU,Star Up,Star Up,false,PE,
+WGN,KD,WGN,Western Global Airlines,Western Global Airlines,true,US,2023-12-31T23:59:00.000
+VJT,,,Vistajet,,false,MT,
+LMY,,,Air Almaty,,false,KZ,
+BQB,5Q,,BQB Líneas Aéreas,,false,UY,2015-04-11T00:00:00.000
+RGL,,,Regional Air Lines,,false,MA,2009-10-02T22:27:00.000
+ICE,FI,,Icelandair,,false,IS,
+ANS,O4,ANS,Andes Lineas Aereas,,false,AR,
+THY,TK,TUR,Turkish Airlines,Turkish,false,TR,
+WCO,,,Columbia Helicopters,,false,US,
+GEC,,DLH,Lufthansa Cargo,Lufthansa,true,DE,
+EMB,,,Empresa Brasileira De Aeronautica,,false,BR,
+OAE,OY,,Omni Air International,,false,US,
+DKA,,,Daka,,false,KZ,2009-06-01T22:09:00.000
+GCO,GR,,Gemini Air Cargo,,true,US,2009-03-24T01:28:00.000
+CUB,CU,CUB,Cubana de Aviacion,Cubana,false,CU,
+WIL,,,Aero Air,,false,US,
+AMP,,,Aero Transporte S.A. (ATSA),,false,PE,
+MPD,A7,,Air Plus Comet,,false,ES,2008-08-30T17:07:00.000
+DWI,DM,DWI,Arajet,Arajet,false,DO,
+BVR,,,ACM Air Charter,,false,DE,
+MAA,M7,MAS,Mas Air,Mas,true,MX,
+SOO,,,Southern Air,,true,US,
+ETR,ES,ETR,Estelar,Estelar,false,VE,
+CRR,,,Carranza,,false,CL,2008-09-09T12:59:00.000
+ARE,4C,LAN,LATAM Airlines Colombia,LATAM,false,CO,
+SGI,,,Servicios Aereos Agricolas,,false,CL,
+LAE,L7,LAN,LATAM Cargo Colombia,LATAM,true,CO,
+APW,JW,,Arrow Air,,false,US,
+VLO,LC,,Varig Log,,false,BR,
+RRU,,,Cirrus,,false,CL,2011-03-27T19:38:00.000
+UAE,EK,UAE,Emirates,Emirates,false,AE,
+QTR,QR,QTR,Qatar Airways,Qatar Airways,false,QA,
+VRN,RG,,VRG Linhas Aereas,,false,BR,2009-06-28T18:21:00.000
+CXP,XP,CXP,XTRAirways (Avelo),XTRAirways,false,US,2021-04-08T00:00:00.000
+SWN,,SWN,West Atlantic Sweden,West Atlantic,true,SE,
+CLX,CV,CLX,Cargolux,Cargolux,true,LU,
+CIU,A2,,Cielos Airlines,,false,PE,2011-04-11T22:20:00.000
+AZA,AZ,AZA,Alitalia,Alitalia,false,IT,
+ETH,ET,ETH,Ethiopian Airlines,Ethiopian,false,ET,
+BAN,,,British Antarctic Survey,,false,GB,
+KYE,GG,SKY,SKY Lease Cargo,SKY,true,US,
+AZP,ZP,PAR,Paranair (Ex. Amaszonas Par.),Paranair,false,PY,
+TUS,,,ABSA - Aerolinhas Brasileiras,,false,BR,2016-04-30T00:00:00.000
+AEG,,,Aerofumigaciones Sam,,false,CL,2011-06-16T17:25:00.000
+AIH,,,Alpine Air Chile,,false,CL,2014-05-21T18:03:00.000
+CKS,K4,CKS,Kalitta Air,Kalitta Air,true,US,
+KAL,KE,KOA,Korean Air,Korean Air,false,KR,
+DAE,DH,DAE,DHL Aero Expreso,DHL Aero Expreso,true,PA,
+JAP,JZ,JET,JetSMART Perú ,JetSMART,false,PE,
+FWL,RF,,Florida West International Airways,,true,US,2017-02-28T23:59:00.000
+TPA,QT,AVA,Tampa Cargo,Avianca,true,CO,
+JES,WJ,JET,JetSMART Argentina,JetSMART,false,AR,
+DRB,,,Didier Rousset Buy,,false,CL,
+ONE,O6,ONE,Oceanair Linhas Aereas,Oceanair Linhas Aereas,true,BR,
+BAW,BA,BAW,British Airways,British Airways,false,GB,
+KBA,4K,KBA,Kenn Borek Air,Kenn Borek Air,false,CA,
+CWC,WE,,Centurion Air Cargo,,true,US,
+UPS,5X,UPS,United Parcel Service (UPS),United Parcel Service,true,US,
+FIA,,,Four Island Air,,false,AG,
+PUE,PU,,Plus Ultra,,false,ES,
+SKX,H8,SKY,SKY Airlines Peru,SKY,false,PE,
+DLH,LH,DLH,Lufthansa,Lufthansa,false,DE,
+LLB,LB,,Lloyd Aereo Boliviano,,false,BO,2009-01-23T19:15:00.000
+FDX,FX,FDX,Federal Express (FedEx),FedEx,true,US,
+LTG,M3,LAN,LATAM Cargo Brasil,LATAM,true,BR,
+HAA,,,Helicopteros Agroforestal,,false,CL,
+QFA,QF,QFA,Qantas Airways,Qantas,false,AU,
+KLM,KL,KLM,KLM,KLM,false,NL,
+MPH,MP,MPH,Martinair Holland,Martinair,true,NL,
+JMR,LW,LAW,Latin American Wings,Latin American Wings,false,CL,2018-03-12T00:00:00.000
+TPU,,AVA,Trans American Airlines (Avianca Perú),Avianca,false,PE,
+BRI,,BRI,Barrik,Barrik,false,CL,
+DHE,,DAP,DAP Helicopteros,DAP Helicopteros,false,CL,
+UAL,UA,UAL,United Airlines,United Airlines,false,US,
+AZN,Z8,AZN,Amaszonas,Amaszonas,false,BO,
+LRC,LR,AVA,Avianca Costa Rica (Lacsa),Avianca,false,CR,
+PUA,,,PLUNA,,false,UY,2012-07-04T00:00:00.000
+DSM,4M,LAN,LATAM Airlines Argentina,LATAM,false,AR,
+AMX,AM,AMX,Aeroméxico,Aeroméxico,false,MX,
+AUT,AU,AUT,Austral,Austral,false,AR,
+LAP,PZ,LAN,LATAM Airlines Paraguay,LATAM,false,PY,
+GTI,5Y,GTI,Atlas Air Cargo,Atlas Air Cargo,true,US,
+ARS,,,Aeromet Servicios,,false,CL,2014-10-04T22:22:00.000
+HLW,,,Heliworks,,false,CL,
+NOT,,,Linea Aerea Costa Norte,,false,CL,
+NTI,,NTI,Aero Continente,Aero Continente,false,CL,2002-06-10T00:00:00.000
+AFR,AF,AFR,Air France,Air France,false,FR,
+LNE,XL,LAN,LATAM Airlines Ecuador,LATAM,false,EC,
+DAL,DL,DAL,Delta Airlines,Delta Airlines,false,US,
+ACA,AC,ACA,Air Canada,Air Canada,false,CA,
+MTE,,MTE,Aeromet Linea Aerea,Aeromet,false,CL,2008-01-01T00:00:00.000
+IBE,IB,IBE,Iberia,Iberia,false,ES,
+GLO,G3,GLO,Gol,Gol,false,BR,
+DCL,,,Transportes Aereos Don Carlos,,false,CL,
+AVA,AV,AVA,Avianca,Avianca,false,CO,
+LSE,,LSE,Linea de Aeroservicios,Aeroservicios,false,CL,
+AAL,AA,AAL,American Airlines,American Airlines,false,US,
+VAT,OT,VAT,Avant Airlines,Avant,false,CL,2001-06-09T00:00:00.000
+LPE,LP,LAN,LATAM Airlines Peru,LATAM,false,PE,
+TAM,JJ,LAN,LATAM Airlines Brasil,LATAM,false,BR,
+CMP,CM,CMP,Copa,Copa,false,PA,
+ARG,AR,ARG,Aerolineas Argentinas,Aerolineas Argentinas,false,AR,
+SRF,,,Transportes Aereos San Rafael,,false,CL,
+CDA,,CDA,Aerocardal,Aerocardal,false,CL,
+LCO,UC,LAN,LATAM Cargo,LATAM,true,CL,
+DAP,V5,DAP,Aerovías DAP,DAP,false,CL,
+JAT,JA,JET,JetSMART,JetSMART,false,CL,
+SKU,H2,SKY,SKY Airlines,SKY,false,CL,
+LXP,LU,LAN,LATAM Airlines Chile,LATAM,false,CL,
+LAN,LA,LAN,LATAM Airlines Group,LATAM,false,CL,
+SWR,LX,SWI,Swiss International Airlines,Swiss,false,CH,
+ONS,IP,ONS,ONE Airlines,ONE Airlines,false,CL,2020-03-26T00:00:00.000
+JMR,CJ,CHJ,ChileJet,ChileJet,false,CL,2016-12-31T23:59:00.000
+AEA,UX,,AirEuropa,,false,ES,
+DTO,,,AeroDesierto,,false,CL,2016-07-31T23:59:00.000
+RLX,6G,,Go2Sky,,false,SK,
+GBB,GE,,Global Aviation,,false,ZA,
+PLM,EB,,Wamos Air,,false,ES,
+EAL,2D,,Eastern Airlines,,false,US,
+DMJ,,,Global Air,,false,MX,2019-01-01T00:00:00.000
+DLU,3I,,AirComet Chile,,false,CL,2008-12-31T23:59:00.000
+PCP,5P,,Principal Airlines,,false,CL,2014-09-01T23:59:00.000
+LVL,LL,IBE,Level,Iberia,false,ES,
+JEC,J6,JET,JetSMART Colombia,JetSMART,false,CO,
+ARU,AG,,Aruba Airlines,,false,AW,
+THT,TN,,Air Tahiti Nui,,false,PF,

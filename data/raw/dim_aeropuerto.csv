@@ -1,0 +1,1025 @@
+oaci,iata,nombre,nombre_corto,ciudad,region_iso,latitud,longitud,categoria,zona_horaria
+CYHM,YHM,Hamilton-Munro,Hamilton-Munro,Hamilton,CA-ON,43.173599,-79.934998,,America/Toronto
+CYHZ,YHZ,Halifax Stanfield,Halifax Stanfield,Halifax,CA-NS,44.880798,-63.508598,,America/Halifax
+CYQG,YQG,Windsor,Windsor,Windsor,CA-ON,42.275600,-82.955597,,America/Toronto
+CYUL,YUL,Pierre Elliott Trudeau,Pierre Elliott Trudeau,Montréal,CA-QC,45.467837,-73.742294,,America/Toronto
+CYVR,YVR,Vancouver,Vancouver,Vancouver,CA-BC,49.193901,-123.183998,,America/Vancouver
+CYWG,YWG,James Armstrong Richardson,James Armstrong Richardson,Winnipeg,CA-MB,49.910000,-97.239899,,America/Winnipeg
+CYYC,YYC,Calgary,Calgary,Calgary,CA-AB,51.118822,-114.009933,,America/Edmonton
+CYYT,YYT,San Juan de Terranova,San Juan de Terranova,St. John's,CA-NL,47.618599,-52.751900,,America/St_Johns
+CYYZ,YYZ,Toronto Pearson,Toronto Pearson,Toronto,CA-ON,43.677200,-79.630600,,America/Toronto
+DGAA,ACC,Kotoka,Kotoka,Accra,GH-AA,5.605190,-0.166786,,Africa/Accra
+DIAP,ABJ,Félix Houphouët-Boigny,Félix Houphouët-Boigny,Abidjan,CI-AB,5.261390,-3.926290,,Africa/Abidjan
+DNAA,ABV,Nnamdi Azikiwe,Nnamdi Azikiwe,Abuja,NG-FC,9.006790,7.263170,,Africa/Lagos
+DNMM,LOS,Murtala Muhammed,Murtala Muhammed,Lagos,NG-LA,6.577370,3.321160,,Africa/Lagos
+DRRN,NIM,Diori Hamani,Diori Hamani,Niamey,NE-8,13.481500,2.183610,,Africa/Niamey
+DXXX,LFW,Lomé-Tokoin,Lomé-Tokoin,Lomé,TG-M,6.165610,1.254510,,Africa/Lome
+EBLG,LGG,Lieja,Lieja,Grâce-Hollogne,BE-WLG,50.638574,5.443897,,Europe/Brussels
+EDDF,FRA,Frankfurt,Frankfurt,Frankfurt,DE-HE,50.030241,8.561096,,Europe/Berlin
+EDDM,MUC,Múnich-Franz Josef Strauss,Múnich-Franz Josef Strauss,Munich,DE-BY,48.353802,11.786100,,Europe/Berlin
+EDDP,LEJ,Leipzig/Halle,Leipzig/Halle,Schkeuditz,DE-SN,51.420657,12.232705,,Europe/Berlin
+EDDS,STR,Stuttgart,Stuttgart,Stuttgart,DE-BW,48.689899,9.221960,,Europe/Berlin
+EDDV,HAJ,Hannover,Hannover,Hannover,DE-NI,52.461102,9.685080,,Europe/Berlin
+EDFH,HHN,Fráncfort-Hahn,Fráncfort-Hahn,Rhine-Main,DE-RP,49.948700,7.263890,,Europe/Berlin
+EGAR,,Punta Rothera,Punta Rothera,Rothera Research Station,AQ-U-A,-67.567500,-68.127403,,Antarctica/Rothera
+EGBB,BHX,Birmingham-West Midlands,Birmingham-West Midlands,Birmingham,GB-ENG,52.453899,-1.748030,,Europe/London
+EGHH,BOH,Bournemouth,Bournemouth,"Christchurch, Dorset",GB-ENG,50.780483,-1.839576,,Europe/London
+EGLF,FAB,Farnborough,Farnborough,Farnborough,GB-ENG,51.275799,-0.776333,,Europe/London
+EGLL,LHR,Londres-Heathrow,Londres-Heathrow,London,GB-ENG,51.470600,-0.461941,,Europe/London
+EGPH,EDI,Edimburgo,Edimburgo,Edinburgh,GB-SCT,55.950145,-3.372288,,Europe/London
+EGSS,STN,Londres-Stansted,Londres-Stansted,London,GB-ENG,51.884998,0.235000,,Europe/London
+EGTE,EXT,Exeter,Exeter,"Exeter, Devon",GB-ENG,50.734261,-3.413984,,Europe/London
+EGYP,MPN,Mount Pleasant,Mount Pleasant,Mount Pleasant,FK-U-A,-51.822800,-58.447201,,Atlantic/Stanley
+EHAM,AMS,Ámsterdam-Schiphol,Ámsterdam-Schiphol,Amsterdam,NL-NH,52.308601,4.763890,,Europe/Amsterdam
+EIDW,DUB,Dublín,Dublín,Dublin,IE-D,53.428713,-6.262121,,Europe/Dublin
+ELLX,LUX,Luxemburgo,Luxemburgo,Luxembourg,LU-LU,49.623333,6.204444,,Europe/Luxembourg
+ENOE,,Troll,Troll,Jutulsessen,AQ-U-A,-71.957140,2.452570,,Antarctica/Troll
+EPWA,WAW,Varsovia-Frédéric Chopin,Varsovia-Frédéric Chopin,Varsovia,PL-14,52.165699,20.967100,,Europe/Warsaw
+ETAR,RMS,Ramstein,Ramstein,Ramstein-Miesenbach,DE-RP,49.436901,7.600280,,Europe/Berlin
+FACT,CPT,la Ciudad del Cabo,la Ciudad del Cabo,Cape Town,ZA-WC,-33.964802,18.601700,,Africa/Johannesburg
+FALA,HLA,Lanseria,Lanseria,Johannesburg,ZA-GP,-25.938499,27.926100,,Africa/Johannesburg
+FAOR,JNB,Johannesburgo-Oliver Reginald Tambo,Johannesburgo-Oliver Reginald Tambo,Johannesburg,ZA-GP,-26.139200,28.246000,,Africa/Johannesburg
+FHAW,ASI,RAF Ascension Island,B.A. RAF Ascension Island,Cat Hill,SH-AC,-7.969600,-14.393700,,Atlantic/St_Helena
+FIMP,MRU,Sir Seewoosagur Ramgoolam,Sir Seewoosagur Ramgoolam,Plaine Magnien,MU-GP,-20.430201,57.683601,,Indian/Mauritius
+FLKK,LUN,Lusaka,Lusaka,Lusaka,ZM-09,-15.330833,28.452722,,Africa/Lusaka
+FOOL,LBV,Libreville-Leon M'ba,Libreville-Leon M'ba,Libreville,GA-1,0.458600,9.412280,,Africa/Libreville
+FSIA,SEZ,Seychelles,Seychelles,Mahe Island,SC-20,-4.674340,55.521801,,Indian/Mahe
+FVRG,HRE,Robert Gabriel Mugabe (Harare),Robert Gabriel Mugabe (Harare),Harare,ZW-HA,-17.931801,31.092800,,Africa/Harare
+FYWE,ERS,Eros,Eros,Windhoek,NA-KH,-22.612200,17.080400,,Africa/Windhoek
+FYWH,WDH,Windhoek Hosea Kutako,Windhoek Hosea Kutako,Windhoek,NA-KH,-22.479900,17.470900,,Africa/Windhoek
+GABS,BKO,Bamako-Sénou,Bamako-Sénou,Bamako,ML-2,12.533500,-7.949940,,Africa/Bamako
+GCLP,LPA,Gran Canaria,Gran Canaria,Gran Canaria Island,ES-CN,27.931900,-15.386600,,Atlantic/Canary
+GCRR,ACE,César Manrique Lanzarote,César Manrique Lanzarote,San Bartolomé,ES-CN,28.945499,-13.605200,,Atlantic/Canary
+GCTS,TFS,Tenerife Sur,Tenerife Sur,Tenerife,ES-CN,28.044500,-16.572500,,Atlantic/Canary
+GCXO,TFN,Tenerife Norte,Tenerife Norte,Tenerife,ES-CN,28.482700,-16.341499,,Atlantic/Canary
+GMMN,CMN,Mohammed V,Mohammed V,Casablanca,MA-CAS,33.367500,-7.589970,,Africa/Casablanca
+GMMX,RAK,Marrakech-Menara,Marrakech-Menara,Marrakech,MA-MAR,31.606899,-8.036300,,Africa/Casablanca
+GOBD,DSS,Blaise Diagne,Blaise Diagne,Dakar,SN-DK,14.670000,-17.073333,,Africa/Dakar
+GOOY,DKR,Dakar-Yoff/Léopold Sédar Senghor,Dakar-Yoff/Léopold Sédar Senghor,Dakar,SN-DK,14.739700,-17.490200,,Africa/Dakar
+GQNO,NKC,Nouakchott–Oumtounsy International,Nouakchott–Oumtounsy International,Nouakchott,MR-14,18.310000,-15.969722,,Africa/Nouakchott
+GVAC,SID,Amílcar Cabral,Amílcar Cabral,Espargos,CV-B,16.741400,-22.949400,,Atlantic/Cape_Verde
+GVNP,RAI,Nelson Mandela,Nelson Mandela,Praia,CV-S,14.941126,-23.484728,,Atlantic/Cape_Verde
+HAAB,ADD,Bole,Bole,Addis Ababa,ET-AA,8.977890,38.799301,,Africa/Addis_Ababa
+HKJK,NBO,Jomo Kenyatta,Jomo Kenyatta,Nairobi,KE-30,-1.319240,36.927799,,Africa/Nairobi
+KABE,ABE,Lehigh Valley,Lehigh Valley,Allentown,US-PA,40.651773,-75.442797,,America/New_York
+KABQ,ABQ,Albuquerque Sunport,Albuquerque Sunport,Albuquerque,US-NM,35.039976,-106.608925,,America/Denver
+KACK,ACK,Nantucket Memorial,Nantucket Memorial,Nantucket,US-MA,41.253101,-70.060204,,America/New_York
+SCAV,,Achibueno,Achibueno,Linares,CL-NB,-36.613271,-72.041323,T,America/Santiago
+KAFW,AFW,Perot Field Fort Worth Alliance,Perot Field Fort Worth Alliance,Fort Worth,US-TX,32.990440,-97.319470,,America/Chicago
+KAGS,AGS,Augusta Regional,Augusta Regional,Augusta,US-GA,33.369900,-81.964500,,America/New_York
+KALB,ALB,Albany,Albany,Albany,US-NY,42.748299,-73.801697,,America/New_York
+KAPA,APA,Centennial,Centennial,Denver,US-CO,39.570099,-104.848999,,America/Denver
+KAPF,APF,Naples Municipal,Naples Municipal,Naples,US-FL,26.152599,-81.775299,,America/New_York
+KATL,ATL,Hartsfield-Jackson,Hartsfield-Jackson,Atlanta,US-GA,33.636700,-84.428101,,America/New_York
+KAUS,AUS,Austin-Bergstrom,Austin-Bergstrom,Austin,US-TX,30.197535,-97.662015,,America/Chicago
+KAXV,AXV,Neil Armstrong,Neil Armstrong,Wapakoneta,US-OH,40.493401,-84.298897,,America/New_York
+KBAD,BAD,Barksdale,B.A. Barksdale,Bossier City,US-LA,32.501801,-93.662697,,America/Chicago
+KBCT,BCT,Boca Raton,Boca Raton,Boca Raton,US-FL,26.378500,-80.107697,,America/New_York
+KBED,BED,Hanscom Field,Hanscom Field,Bedford,US-MA,42.470001,-71.289001,,America/New_York
+KBFI,BFI,Seattle-Boeing Field,Seattle-Boeing Field,Seattle,US-WA,47.529999,-122.302002,,America/Los_Angeles
+KBFM,BFM,Central de Mobile,Central de Mobile,Mobile,US-AL,30.626801,-88.068100,,America/Chicago
+KBGR,BGR,Bangor,Bangor,Bangor,US-ME,44.807400,-68.828102,,America/New_York
+KBJC,BJC,Rocky Mountain Metropolitan,Rocky Mountain Metropolitan,Denver,US-CO,39.908798,-105.116997,,America/Denver
+KBNA,BNA,Nashville,Nashville,Nashville,US-TN,36.124500,-86.678200,,America/Chicago
+KBOS,BOS,Logan,Logan,Boston,US-MA,42.361970,-71.007900,,America/New_York
+KBRO,BRO,Brownsville/South Padre Island,Brownsville/South Padre Island,Brownsville,US-TX,25.906799,-97.425903,,America/Chicago
+SABE,AEP,Jorge Newbery,Aeroparque,Buenos Aires,AR-B,-34.559200,-58.415600,,America/Argentina/Buenos_Aires
+KBWI,BWI,Baltimore-Washington,Baltimore-Washington,Baltimore,US-MD,39.175400,-76.668297,,America/New_York
+KCAE,CAE,Columbia Metropolitan,Columbia Metropolitan,Columbia,US-SC,33.938801,-81.119499,,America/New_York
+KCHO,CHO,Charlottesville Albemarle,Charlottesville Albemarle,Charlottesville,US-VA,38.138599,-78.452904,,America/New_York
+KCHS,CHS,Charleston,Charleston,Charleston,US-SC,32.898602,-80.040497,,America/New_York
+KCLE,CLE,Cleveland-Hopkins,Cleveland-Hopkins,Cleveland,US-OH,41.411701,-81.849800,,America/New_York
+KCLT,CLT,Douglas,Douglas,Charlotte,US-NC,35.214001,-80.943100,,America/New_York
+KCMH,CMH,John Glenn Columbus,John Glenn Columbus,Columbus,US-OH,39.998001,-82.891899,,America/New_York
+KCOS,COS,Colorado Springs,Colorado Springs,Colorado Springs,US-CO,38.805801,-104.700996,,America/Denver
+KCRQ,CLD,McClellan-Palomar,McClellan-Palomar,Carlsbad,US-CA,33.128300,-117.279999,,America/Los_Angeles
+KCVG,CVG,Cincinnati/Norte de Kentucky,Cincinnati/Norte de Kentucky,Cincinnati / Covington,US-KY,39.048801,-84.667801,,America/New_York
+KCXO,CXO,Lone Star Executive,Lone Star Executive,Houston,US-TX,30.351801,-95.414497,,America/Chicago
+KBUR,BUR,Hollywood Burbank,Hollywood Burbank,Burbank,US-CA,34.197703,-118.356378,,America/Los_Angeles
+KDAY,DAY,Dayton,Dayton,Dayton,US-OH,39.902401,-84.219398,,America/New_York
+KDEN,DEN,Denver,Denver,Denver,US-CO,39.861698,-104.672997,,America/Denver
+KDFW,DFW,Dallas-Fort Worth,Dallas-Fort Worth,Dallas,US-TX,32.896801,-97.038002,,America/Chicago
+KDLH,DLH,Duluth International,Duluth International,Duluth,US-MN,46.842098,-92.193604,,America/Chicago
+KDPA,DPA,DuPage,DuPage,Chicago/West Chicago,US-IL,41.907799,-88.248596,,America/Chicago
+KDSM,DSM,Des Moines,Des Moines,Des Moines,US-IA,41.534000,-93.663101,,America/Chicago
+KEFD,EFD,Ellington International,Ellington International,Houston,US-TX,29.607300,-95.158798,,America/Chicago
+KEGE,EGE,Condado de Eagle,Condado de Eagle,Eagle,US-CO,39.642601,-106.917999,,America/Denver
+KELP,ELP,El Paso,El Paso,El Paso,US-TX,31.807199,-106.377998,,America/Denver
+KENW,ENW,Kenosha Regional,Kenosha Regional,Kenosha,US-WI,42.595699,-87.927803,,America/Chicago
+KEWR,EWR,Libertad de Newark,Libertad de Newark,Newark,US-NJ,40.692501,-74.168701,,America/New_York
+KFFO,FFO,Wright-Patterson,B.A. Wright-Patterson,Dayton,US-OH,39.826099,-84.048302,,America/New_York
+KFLL,FLL,Fort Lauderdale-Hollywood,Fort Lauderdale-Hollywood,Fort Lauderdale,US-FL,26.072599,-80.152702,,America/New_York
+KFMY,FMY,Page Field,Page Field,Fort Myers,US-FL,26.586599,-81.863297,,America/New_York
+KFOK,FOK,Francis S. Gabreski,Francis S. Gabreski,Westhampton Beach,US-NY,40.843700,-72.631798,,America/New_York
+KFRG,FRG,Republic,Republic,Farmingdale,US-NY,40.728802,-73.413399,,America/New_York
+SBLP,LAZ,Bom Jesus da Lapa,Bom Jesus da Lapa,Bom Jesus da Lapa,BR-BA,-13.262100,-43.408100,,America/Bahia
+KFTY,FTY,Fulton County,Fulton County,Atlanta,US-GA,33.779099,-84.521400,,America/New_York
+KFXE,FXE,Fort Lauderdale Executive,Fort Lauderdale Executive,Fort Lauderdale,US-FL,26.197300,-80.170700,,America/New_York
+KGJT,GJT,Grand Junction Regional,Grand Junction Regional,Grand Junction,US-CO,39.126663,-108.529387,,America/Denver
+KDAL,DAL,Dallas Love,Dallas Love,Dallas,US-TX,32.847099,-96.851799,,America/Chicago
+KGRR,GRR,Gerald R. Ford,Gerald R. Ford,Grand Rapids,US-MI,42.880798,-85.522797,,America/Detroit
+KGSO,GSO,Piedmont Triad,Piedmont Triad,Greensboro,US-NC,36.097801,-79.937302,,America/New_York
+KGYR,GYR,Phoenix Goodyear,Phoenix Goodyear,Goodyear,US-AZ,33.422501,-112.375999,,America/Phoenix
+KHOU,HOU,William P. Hobby,William P. Hobby,Houston,US-TX,29.645399,-95.278900,,America/Chicago
+KHPN,HPN,Westchester County,Westchester County,White Plains,US-NY,41.067001,-73.707603,,America/New_York
+KHST,HST,Homestead ARB,Homestead ARB,Homestead,US-FL,25.488600,-80.383598,,America/New_York
+KHSV,HSV,Huntsville,Huntsville,Huntsville,US-AL,34.637199,-86.775101,,America/Chicago
+KIAD,IAD,Washington-Dulles,Washington-Dulles,Dulles,US-VA,38.944500,-77.455803,,America/New_York
+KIAH,IAH,George Bush,George Bush,Houston,US-TX,29.984400,-95.341400,,America/Chicago
+KILG,ILG,New Castle,New Castle,Wilmington,US-DE,39.678699,-75.606499,,America/New_York
+KILM,ILM,Wilmington,Wilmington,Wilmington,US-NC,34.270599,-77.902603,,America/New_York
+KIND,IND,Indianápolis,Indianápolis,Indianapolis,US-IN,39.717300,-86.294403,,America/Indiana/Indianapolis
+KISP,ISP,MacArthur de Long Island,MacArthur de Long Island,Islip,US-NY,40.795200,-73.100197,,America/New_York
+KJAX,JAX,Jacksonville,Jacksonville,Jacksonville,US-FL,30.492469,-81.687813,,America/New_York
+KJFK,JFK,John F. Kennedy,John F. Kennedy,Nueva York,US-NY,40.639447,-73.779317,,America/New_York
+MMQT,QRO,Querétaro,Querétaro,Querétaro,MX-QUE,20.617300,-100.185997,,America/Mexico_City
+KLAS,LAS,McCarran,McCarran,Las Vegas,US-NV,36.083361,-115.151817,,America/Los_Angeles
+KLAX,LAX,Los Ángeles,Los Ángeles,Los Angeles,US-CA,33.942501,-118.407997,,America/Los_Angeles
+KLCK,LCK,Rickenbacker International,Rickenbacker International,Columbus,US-OH,39.813801,-82.927803,,America/New_York
+KLEX,LEX,Blue Grass,Blue Grass,Lexington,US-KY,38.036499,-84.605904,,America/New_York
+KLFI,LFI,Langley,B.A. Langley,Hampton,US-VA,37.082901,-76.360497,,America/New_York
+KLGA,LGA,LaGuardia,LaGuardia,Nueva York,US-NY,40.777199,-73.872597,,America/New_York
+KLGB,LGB,Long Beach,Long Beach,Long Beach,US-CA,33.816523,-118.149891,,America/Los_Angeles
+KLRD,LRD,Laredo,Laredo,Laredo,US-TX,27.543800,-99.461601,,America/Chicago
+KMCF,MCF,MacDill,B.A. MacDill,Tampa,US-FL,27.849300,-82.521202,,America/New_York
+KMCI,MCI,Kansas City,Kansas City,Kansas City,US-MO,39.297600,-94.713898,,America/Chicago
+KMCO,MCO,Orlando,Orlando,Orlando,US-FL,28.429399,-81.308998,,America/New_York
+KMDW,MDW,Midway,Midway,Chicago,US-IL,41.785999,-87.752403,,America/Chicago
+KMHT,MHT,Manchester-Boston,Manchester-Boston,Manchester,US-NH,42.932598,-71.435699,,America/New_York
+KMIA,MIA,Miami,Miami,Miami,US-FL,25.793200,-80.290604,,America/New_York
+KMIB,MIB,Minot,B.A. Minot,Minot,US-ND,48.415600,-101.358002,,America/Chicago
+SBCT,CWB,Afonso Pena,Afonso Pena,Curitiba,BR-PR,-25.528500,-49.175800,,America/Sao_Paulo
+KMKE,MKE,General Mitchell,General Mitchell,Milwaukee,US-WI,42.947201,-87.896599,,America/Chicago
+KMLI,MLI,Quad City,Quad City,Moline,US-IL,41.448502,-90.507500,,America/Chicago
+KMMU,MMU,Morristown Municipal,Morristown Municipal,Morristown,US-NJ,40.799062,-74.414949,,America/New_York
+KMRY,MRY,Monterey Peninsula,Monterey Peninsula,Monterey,US-CA,36.587002,-121.843002,,America/Los_Angeles
+KMSN,MSN,Dane County Regional,Dane County Regional,Madison,US-WI,43.139900,-89.337502,,America/Chicago
+KMSP,MSP,Mineápolis-Saint Paul,Mineápolis-Saint Paul,Minneapolis,US-MN,44.880081,-93.221741,,America/Chicago
+KMSY,MSY,Louis Armstrong,Louis Armstrong,Nueva Orleans,US-LA,29.993401,-90.258003,,America/Chicago
+KMTN,MTN,Martin State,Martin State,Baltimore,US-MD,39.325699,-76.413803,,America/New_York
+KNEW,NEW,Lakefront,Lakefront,Nueva Orleans,US-LA,30.042400,-90.028297,,America/Chicago
+KNFW,FWH,Conjunta Fort Worth,B.A. Conjunta Fort Worth,Fort Worth,US-TX,32.769199,-97.441498,,America/Chicago
+KJQF,USA,Concord-Padgett,Concord-Padgett,Concord,US-NC,35.387798,-80.709099,,America/New_York
+KNQX,NQX,Key West/Boca Chica Field,B.A. Naval Key West/Boca Chica Field,Key West,US-FL,24.575800,-81.688904,,America/New_York
+KNUQ,NUQ,Federal de Moffett,Federal de Moffett,Mountain View,US-CA,37.416100,-122.049004,,America/Los_Angeles
+KOAK,OAK,Oakland de la Bahía de San Francisco,Oakland de la Bahía de San Francisco,Oakland,US-CA,37.720085,-122.221184,,America/Los_Angeles
+KONT,ONT,Ontario,Ontario,Ontario,US-CA,34.056000,-117.600998,,America/Los_Angeles
+KOPF,OPF,Miami-Opa Locka Executive,Miami-Opa Locka Executive,Miami,US-FL,25.907000,-80.278397,,America/New_York
+KOQU,NCO,Quonset State,Quonset State,North Kingstown,US-RI,41.597099,-71.412102,,America/New_York
+KORD,ORD,O'Hare,O'Hare,Chicago,US-IL,41.978600,-87.904800,,America/Chicago
+KORL,ORL,Orlando Executive,Orlando Executive,Orlando,US-FL,28.545500,-81.332901,,America/New_York
+KOSC,OSC,Oscoda-Wurtsmith,Oscoda-Wurtsmith,Oscoda,US-MI,44.451599,-83.394096,,America/Detroit
+KPAE,PAE,Paine Field,Paine Field,Everett,US-WA,47.906300,-122.281998,,America/Los_Angeles
+KPBI,PBI,Palm Beach,Palm Beach,West Palm Beach,US-FL,26.683201,-80.095596,,America/New_York
+KPDK,PDK,DeKalb-Peachtree,DeKalb-Peachtree,Atlanta,US-GA,33.876330,-84.302130,,America/New_York
+KPDX,PDX,Portland,Portland,Portland,US-OR,45.588699,-122.598000,,America/Los_Angeles
+KPHF,PHF,Newport News/Williamsburg International,Newport News/Williamsburg International,Newport News,US-VA,37.131901,-76.492996,,America/New_York
+KPHL,PHL,Filadelfia,Filadelfia,Philadelphia,US-PA,39.871899,-75.241096,,America/New_York
+KPHX,PHX,Sky Harbor,Sky Harbor,Phoenix,US-AZ,33.435302,-112.005905,,America/Phoenix
+KPIE,PIE,Saint Petersburg-Clearwater,Saint Petersburg-Clearwater,Pinellas Park,US-FL,27.910200,-82.687401,,America/New_York
+KPIT,PIT,Pittsburgh,Pittsburgh,Pittsburgh,US-PA,40.491501,-80.232903,,America/New_York
+KPMD,PMD,LA/Palmdale,LA/Palmdale,Palmdale,US-CA,34.629398,-118.084999,,America/Los_Angeles
+KPTK,PTK,Oakland County International,Oakland County International,Pontiac,US-MI,42.665501,-83.420097,,America/Detroit
+KPVD,PVD,T. F. Green,T. F. Green,Warwick,US-RI,41.725038,-71.425668,,America/New_York
+KRAC,RAC,John H. Batten,John H. Batten,Racine,US-WI,42.760601,-87.815201,,America/Chicago
+KRDU,RDU,Raleigh-Durham,Raleigh-Durham,Raleigh,US-NC,35.877602,-78.787498,,America/New_York
+KRFD,RFD,Chicago Rockford,Chicago Rockford,Chicago/Rockford,US-IL,42.195400,-89.097198,,America/Chicago
+KMKC,MKC,Urbano Charles B. Wheeler,Urbano Charles B. Wheeler,Kansas City,US-MO,39.123199,-94.592796,,America/Chicago
+KROG,ROG,Rogers Municipal,Rogers Municipal,Rogers,US-AR,36.372299,-94.106903,,America/Chicago
+KRST,RST,Rochester International,Rochester International,Rochester,US-MN,43.908298,-92.500000,,America/Chicago
+KRSW,RSW,Southwest Florida,Southwest Florida,Fort Myers,US-FL,26.536200,-81.755203,,America/New_York
+KRYY,,Cobb County,Cobb County,Atlanta,US-GA,34.013160,-84.597210,,America/New_York
+KSAF,SAF,Municipal de Santa Fe,Municipal de Santa Fe,Santa Fe,US-NM,35.617100,-106.088997,,America/Denver
+KSAN,SAN,San Diego,San Diego,San Diego,US-CA,32.733601,-117.190002,,America/Los_Angeles
+KSAT,SAT,San Antonio,San Antonio,San Antonio,US-TX,29.533701,-98.469803,,America/Chicago
+KSAV,SAV,Savannah/Hilton Head,Savannah/Hilton Head,Savannah,US-GA,32.127602,-81.202103,,America/New_York
+KSBA,SBA,Municipal de Santa Bárbara,Municipal de Santa Bárbara,Santa Bárbara,US-CA,34.426201,-119.839996,,America/Los_Angeles
+KSBD,SBD,San Bernardino,San Bernardino,San Bernardino,US-CA,34.095402,-117.235001,,America/Los_Angeles
+KSDF,SDF,Louisville,Louisville,Louisville,US-KY,38.174400,-85.736000,,America/Kentucky/Louisville
+KSDL,SCF,Municipal de Scottsdale,Municipal de Scottsdale,Scottsdale,US-AZ,33.622898,-111.911003,,America/Phoenix
+KSDM,SDM,Municipal Brown Field,Municipal Brown Field,San Diego,US-CA,32.572639,-116.980019,,America/Los_Angeles
+KSEA,SEA,Seattle-Tacoma,Seattle-Tacoma,Seattle,US-WA,47.447943,-122.310276,,America/Los_Angeles
+KSFB,SFB,Sanford,Sanford,Orlando,US-FL,28.777599,-81.237503,,America/New_York
+KSFO,SFO,San Francisco,San Francisco,San Francisco,US-CA,37.619806,-122.374821,,America/Los_Angeles
+KSGR,SGR,Sugar Land Regional,Sugar Land Regional,Houston,US-TX,29.622299,-95.656502,,America/Chicago
+KSJC,SJC,San José,San José,San Jose,US-CA,37.362452,-121.929188,,America/Los_Angeles
+KSKF,SKF,Lackland,B.A. Lackland,San Antonio,US-TX,29.384199,-98.581100,,America/Chicago
+KSLC,SLC,Salt Lake City,Salt Lake City,Salt Lake City,US-UT,40.788860,-111.979866,,America/Denver
+KSMF,SMF,Sacramento,Sacramento,Sacramento,US-CA,38.695400,-121.591003,,America/Los_Angeles
+KSNA,SNA,John Wayne,John Wayne,Santa Ana,US-CA,33.675701,-117.867996,,America/Los_Angeles
+KSRQ,SRQ,Sarasota-Bradenton,Sarasota-Bradenton,Sarasota/Bradenton,US-FL,27.394631,-82.554359,,America/New_York
+KSTL,STL,Lambert,Lambert,St Louis,US-MO,38.748697,-90.370003,,America/Chicago
+KSTP,STP,St. Paul Downtown,St. Paul Downtown,Saint Paul,US-MN,44.934790,-93.060036,,America/Chicago
+KSUA,SUA,Witham Field,Witham Field,Stuart,US-FL,27.181700,-80.221100,,America/New_York
+KSUS,SUS,Spirit of St. Louis,Spirit of St. Louis,St Louis,US-MO,38.662102,-90.652000,,America/Chicago
+KSUU,SUU,Travis,B.A. Travis,Fairfield,US-CA,38.262699,-121.927002,,America/Los_Angeles
+KSWF,SWF,New York Stewart International,New York Stewart International,Newburgh,US-NY,41.504101,-74.104797,,America/New_York
+KSYR,SYR,Syracuse Hancock International,Syracuse Hancock International,Syracuse,US-NY,43.111198,-76.106300,,America/New_York
+KTEB,TEB,Teterboro,Teterboro,Teterboro,US-NJ,40.850101,-74.060799,,America/New_York
+KTMB,TMB,Miami Executive,Miami Executive,Miami,US-FL,25.647900,-80.432800,,America/New_York
+KTPA,TPA,Tampa,Tampa,Tampa,US-FL,27.975500,-82.533203,,America/New_York
+KTTN,TTN,Trenton-Mercer,Trenton-Mercer,Ewing Township,US-NJ,40.276699,-74.813499,,America/New_York
+KTTS,QQS,Aterrizaje de Transbordadores,Instalación de Aterrizaje de Transbordadores,Titusville,US-FL,28.615000,-80.694504,,America/New_York
+KTUL,TUL,Tulsa,Tulsa,Tulsa,US-OK,36.198399,-95.888100,,America/Chicago
+KTUS,TUS,Tucson,Tucson,Tucson,US-AZ,32.115004,-110.938053,,America/Phoenix
+KVCV,VCV,Logística del Sur de California,Logística del Sur de California,Victorville,US-CA,34.597500,-117.383003,,America/Los_Angeles
+KVNY,VNY,Van Nuys,Van Nuys,Van Nuys,US-CA,34.209801,-118.489998,,America/Los_Angeles
+KVPS,VPS,Destin–Fort Walton Beach,Destin–Fort Walton Beach,Valparaíso,US-FL,30.483200,-86.525398,,America/Chicago
+KVRB,VRB,Vero Beach Regional,Vero Beach Regional,Vero Beach,US-FL,27.655600,-80.417901,,America/New_York
+KWRI,WRI,Mc Guire,B.A. Mc Guire,Wrightstown,US-NJ,40.015598,-74.591698,,America/New_York
+KXNA,XNA,Northwest Arkansas,Northwest Arkansas,Northwest Arkansas,US-AR,36.281898,-94.306801,,America/Chicago
+LEAL,ALC,Alicante,Alicante,Alicante,ES-VC,38.282200,-0.558156,,Europe/Madrid
+LEBL,BCN,Josep Tarradellas Barcelona-El Prat,Josep Tarradellas Barcelona-El Prat,Barcelona,ES-CT,41.297100,2.078460,,Europe/Madrid
+LEMD,MAD,Adolfo Suárez Madrid-Barajas,Adolfo Suárez Madrid-Barajas,Madrid,ES-MD,40.471926,-3.562640,,Europe/Madrid
+LEMG,AGP,Málaga-Costa del Sol,Málaga-Costa del Sol,Málaga,ES-AN,36.674900,-4.499110,,Europe/Madrid
+LEPA,PMI,Palma de Mallorca,Palma de Mallorca,Palma de Mallorca,ES-IB,39.551701,2.738810,,Europe/Madrid
+LEXJ,SDR,Santander,Santander,Santander,ES-CB,43.427101,-3.820010,,Europe/Madrid
+LEZL,SVQ,Sevilla,Sevilla,Sevilla,ES-AN,37.417999,-5.893110,,Europe/Madrid
+LFBD,BOD,Burdeos-Mérignac,Burdeos-Mérignac,Bordeaux/Mérignac,FR-NAQ,44.828300,-0.715556,,Europe/Paris
+LFBO,TLS,Toulouse-Blagnac,Toulouse-Blagnac,Toulouse,FR-OCC,43.629101,1.363820,,Europe/Paris
+LFBT,LDE,Tarbes-Lourdes-Pirineos,Tarbes-Lourdes-Pirineos,Tarbes,FR-OCC,43.178699,-0.006439,,Europe/Paris
+LFML,MRS,Marsella-Provenza,Marsella-Provenza,Marignane,FR-PAC,43.438088,5.212500,,Europe/Paris
+LFMN,NCE,Niza Costa Azul,Niza Costa Azul,Nice,FR-PAC,43.658401,7.215870,,Europe/Paris
+LFPB,LBG,París-Le Bourget,París-Le Bourget,París,FR-IDF,48.969398,2.441390,,Europe/Paris
+LFPG,CDG,Paris-Charles de Gaulle,Paris-Charles de Gaulle,París,FR-IDF,49.012798,2.550000,,Europe/Paris
+LIMC,MXP,Milán-Malpensa,Milán-Malpensa,Ferno,IT-25,45.630600,8.728110,,Europe/Rome
+LIRF,FCO,Roma-Fiumicino,Roma-Fiumicino,Roma,IT-62,41.804532,12.251998,,Europe/Rome
+LIRQ,FLR,Florencia-Peterola,Florencia-Peterola,Firenze,IT-52,43.808558,11.202822,,Europe/Rome
+LOWI,INN,Innsbruck,Innsbruck,Innsbruck,AT-7,47.260201,11.344000,,Europe/Vienna
+LPAZ,SMA,Santa María,Santa María,Vila do Porto,PT-20,36.971401,-25.170601,,Atlantic/Azores
+LPBJ,BYJ,Beja,Beja,Beja,PT-02,38.078899,-7.932400,,Europe/Lisbon
+LPFR,FAO,Faro,Faro,Faro,PT-08,37.014400,-7.965910,,Europe/Lisbon
+LPLA,TER,Lajes,Lajes,Praia da Vitória,PT-20,38.761799,-27.090799,,Atlantic/Azores
+LPMA,FNC,Madeira,Madeira,Funchal,PT-30,32.697899,-16.774500,,Atlantic/Madeira
+LPPD,PDL,Ponta Delgada-João Paulo II,Ponta Delgada-João Paulo II,Ponta Delgada,PT-20,37.741199,-25.697901,,Atlantic/Azores
+LPPR,OPO,Oporto-Francisco Sá Carneiro,Oporto-Francisco Sá Carneiro,Porto,PT-13,41.248100,-8.681390,,Europe/Lisbon
+LPPT,LIS,Lisboa Humberto Delgado,Lisboa Humberto Delgado,Lisbon,PT-11,38.781300,-9.135920,,Europe/Lisbon
+LSGG,GVA,Ginebra,Ginebra,Geneva,CH-GE,46.238098,6.108950,,Europe/Zurich
+LSZH,ZRH,Zúrich,Zúrich,Zurich,CH-ZH,47.458056,8.548056,,Europe/Zurich
+MBPV,PLS,Providenciales,Providenciales,Providenciales,TC-U-A,21.773697,-72.268321,,America/Grand_Turk
+MDCY,AZS,Presidente Juan Bosch,Presidente Juan Bosch,Samana,DO-20,19.269259,-69.737405,,America/Santo_Domingo
+MDJB,JBQ,La Isabela,La Isabela,La Isabela,DO-01,18.572500,-69.985603,,America/Santo_Domingo
+MDLR,LRM,La Romana,La Romana,La Romana,DO-12,18.452222,-68.911111,,America/Santo_Domingo
+MDPC,PUJ,Punta Cana,Punta Cana,Punta Cana,DO-11,18.567400,-68.363403,,America/Santo_Domingo
+MDPP,POP,Gregorio Luperón,Gregorio Luperón,Puerto Plata,DO-18,19.757900,-70.570000,,America/Santo_Domingo
+MDSD,SDQ,Las Américas,Las Américas,Santo Domingo,DO-01,18.429701,-69.668900,,America/Santo_Domingo
+MDST,STI,Santiago Municipal,Santiago Municipal,Santiago,DO-25,19.406099,-70.604698,,America/Santo_Domingo
+MGGT,GUA,La Aurora,La Aurora,Guatemala City,GT-01,14.583300,-90.527496,,America/Guatemala
+MHTG,TGU,Toncontín,Toncontín,Tegucigalpa,HN-FM,14.060900,-87.217201,,America/Tegucigalpa
+MKJP,KIN,Norman Manley,Norman Manley,Kingston,JM-01,17.935699,-76.787498,,America/Jamaica
+MKJS,MBJ,Sir Donald Sangster,Sir Donald Sangster,Montego Bay,JM-08,18.503700,-77.913399,,America/Jamaica
+MMAA,ACA,Acapulco,Acapulco,Ciudad de Acapulco,MX-GRO,16.757126,-99.753113,,America/Mexico_City
+MMAN,NTR,Norte,Norte,Monterrey,MX-NLE,25.865601,-100.237000,,America/Monterrey
+MMCB,CVJ,General Mariano Matamoros,General Mariano Matamoros,Temixco,MX-MOR,18.833922,-99.261818,,America/Mexico_City
+MMCZ,CZM,Cozumel,Cozumel,Ciudad de Cozumel,MX-ROO,20.511425,-86.930287,,America/Cancun
+MMGL,GDL,Miguel Hidalgo y Costilla,Miguel Hidalgo y Costilla,Guadalajara,MX-JAL,20.523342,-103.310108,,America/Mexico_City
+MMMD,MID,Manuel Crescencio Rejón,Manuel Crescencio Rejón,Ciudad de Mérida,MX-YUC,20.933384,-89.662621,,America/Merida
+MMMM,MLM,General Francisco J. Mujica,General Francisco J. Mujica,Morelia,MX-MIC,19.849899,-101.025002,,America/Mexico_City
+MMMX,MEX,la Ciudad de México,la Ciudad de México,Ciudad de México,MX-MEX,19.435137,-99.071328,,America/Mexico_City
+MMMY,MTY,General Mariano Escobedo,General Mariano Escobedo,Monterrey,MX-NLE,25.778521,-100.106989,,America/Monterrey
+MMPR,PVR,Licenciado Gustavo Díaz Ordaz,Licenciado Gustavo Díaz Ordaz,Puerto Vallarta,MX-JAL,20.679913,-105.254391,,America/Mexico_City
+KADW,ADW,Andrews,B.A. Andrews,Camp Springs,US-MD,38.810799,-76.866997,,America/New_York
+MMSD,SJD,Los Cabos,Los Cabos,San José del Cabo,MX-BCS,23.151919,-109.720731,,America/Mazatlan
+MMSM,NLU,Felipe Ángeles,Felipe Ángeles,Ciudad de México,MX-MEX,19.735700,-99.025700,,America/Mexico_City
+MMTO,TLC,Lic. Adolfo López Mateos,Lic. Adolfo López Mateos,Toluca,MX-MEX,19.336900,-99.565830,,America/Mexico_City
+MMTP,TAP,Tapachula,Tapachula,Tapachula,MX-CHP,14.790371,-92.368830,,America/Mexico_City
+MMUN,CUN,Cancún,Cancún,Cancún,MX-ROO,21.039444,-86.874304,,America/Cancun
+MNCE,ECI,Costa Esmeralda,Costa Esmeralda,Tola,NI-RI,11.427542,-86.033361,,America/Managua
+MNMG,MGA,Augusto C. Sandino,Augusto C. Sandino,Managua,NI-MN,12.141500,-86.168198,,America/Managua
+MPDA,DAV,Enrique Malek,Enrique Malek,David,PA-4,8.391000,-82.434998,,America/Panama
+MPMG,PAC,Marcos A. Gelabert,Marcos A. Gelabert,Albrook,PA-8,8.973340,-79.555603,,America/Panama
+MPPA,,Panamá Pacífico,Panamá Pacífico,Ciudad de Panamá,PA-10,8.914790,-79.599602,,America/Panama
+MPSM,RIH,Scarlett Martínez,Scarlett Martínez,Río Hato,PA-2,8.375880,-80.127899,,America/Panama
+MPTO,PTY,Tocumen,Tocumen,Tocumen,PA-8,9.071360,-79.383499,,America/Panama
+MRLB,LIR,Guanacaste,Guanacaste,Liberia,CR-G,10.593300,-85.544403,,America/Costa_Rica
+MROC,SJO,Juan Santamaría,Juan Santamaría,San José (Alajuela),CR-A,9.993860,-84.208801,,America/Costa_Rica
+MSLP,SAL,El Salvador,El Salvador,San Salvador,SV-PA,13.440900,-89.055702,,America/El_Salvador
+MTPP,PAP,Toussaint Louverture,Toussaint Louverture,Port-au-Prince,HT-OU,18.580000,-72.292503,,America/Port-au-Prince
+MUHA,HAV,José Martí,José Martí,Havana,CU-03,22.989201,-82.409103,,America/Havana
+MUVR,VRA,Juan Gualberto Gómez,Juan Gualberto Gómez,Matanzas,CU-04,23.034401,-81.435303,,America/Havana
+MWCR,GCM,Owen Roberts,Owen Roberts,George Town,FR-973,19.292801,-81.357697,,America/Cayman
+MYNN,NAS,Lynden Pindling,Lynden Pindling,Nassau,BS-NP,25.039000,-77.466202,,America/Nassau
+MZBZ,BZE,Philip S. W. Goldson,Philip S. W. Goldson,Belize City,BZ-BZ,17.539951,-88.303556,,America/Belize
+NCRG,RAR,Rarotonga,Rarotonga,Avarua,CK-U-A,-21.202700,-159.806000,,Pacific/Rarotonga
+NFFN,NAN,Nadi,Nadi,Nadi,FJ-W,-17.755400,177.442993,,Pacific/Fiji
+NFNA,SUV,Nausori,Nausori,Nausori,FJ-C,-18.043301,178.559006,,Pacific/Fiji
+NSFA,APW,Faleolo,Faleolo,Apia,WS-AA,-13.830000,-172.007996,,Pacific/Apia
+NTAA,PPT,Tahití Faa'a,Tahití Faa'a,Papeete,PF-U-A,-17.553699,-149.606995,,Pacific/Tahiti
+NTGJ,GMR,Totegegie,Totegegie (Rikitea),Totegegie Island,FR-PF,-23.079901,-134.889999,,Pacific/Gambier
+NTGY,ZTA,Tureia,Tureia,Tureia,PF-U-A,-20.784262,-138.567960,,Pacific/Tahiti
+NTTB,BOB,Bora Bora,Bora Bora,Motu Mute,PF-U-A,-16.444401,-151.751007,,Pacific/Tahiti
+NTTR,RFP,Raiatea,Raiatea,Uturoa,PF-U-A,-16.722900,-151.466003,,Pacific/Tahiti
+NWWW,NOU,Nouméa - La Tontouta,Nouméa - La Tontouta,Nouméa,NC-U-A,-22.014601,166.212997,,Pacific/Noumea
+NZAA,AKL,Auckland,Auckland,Auckland,NZ-AUK,-37.011990,174.786331,,Pacific/Auckland
+NZCH,CHC,Christchurch,Christchurch,Christchurch,NZ-CAN,-43.489399,172.531998,,Pacific/Auckland
+NZHN,HLZ,Hamilton,Hamilton,Hamilton,NZ-WKO,-37.866699,175.332001,,Pacific/Auckland
+NZNR,NPE,Hawke's Bay,Hawke's Bay,Napier,NZ-HKB,-39.465801,176.869995,,Pacific/Auckland
+NZQN,ZQN,Queenstown,Queenstown,Queenstown,NZ-OTA,-45.021099,168.738998,,Pacific/Auckland
+NZWN,WLG,Wellington,Wellington,Wellington,NZ-WGN,-41.327202,174.804993,,Pacific/Auckland
+OEJN,JED,Rey Abdulaziz,Rey Abdulaziz,Jeddah,SA-02,21.679600,39.156502,,Asia/Riyadh
+OMDB,DXB,Dubái,Dubái,Dubai,AE-DU,25.252800,55.364399,,Asia/Dubai
+PHKO,KOA,Kona,Kona,Kailua-Kona,US-HI,19.738783,-156.045603,,Pacific/Honolulu
+PHNL,HNL,Honolulu,Honolulu,Honolulu,US-HI,21.320620,-157.924228,,Pacific/Honolulu
+PHOG,OGG,Kahului,Kahului,Kahului,US-HI,20.896263,-156.431837,,Pacific/Honolulu
+RKSM,SSN,Seoul (K-16),B.A. Seoul (K-16),Seongnam,KR-41,37.444744,127.112718,,Asia/Seoul
+SAAP,PRA,General Justo José de Urquiza,General Justo José de Urquiza,Parana,AR-E,-31.794800,-60.480400,,America/Argentina/Cordoba
+SAAR,ROS,Rosario Islas Malvinas,Rosario Islas Malvinas,Rosario,AR-S,-32.903600,-60.785000,,America/Argentina/Cordoba
+SAAV,SFN,Sauce Viejo,Sauce Viejo,Santa Fe,AR-S,-31.711700,-60.811700,,America/Argentina/Cordoba
+SCVM,KNA,Torquemada Concón,Torquemada Concón,Concón,CL-VS,-32.949600,-71.478600,M,America/Santiago
+SACE,,Escuela de Aviación Militar,Escuela de Aviación Militar,Córdoba,AR-X,-31.444223,-64.283377,,America/Argentina/Cordoba
+SACO,COR,Ingeniero Ambrosio Taravella,Ingeniero Ambrosio Taravella,Cordoba,AR-X,-31.323601,-64.208000,,America/Argentina/Cordoba
+SADF,,San Fernando,San Fernando,San Fernando,AR-B,-34.453200,-58.589600,,America/Argentina/Buenos_Aires
+SADP,EPA,El Palomar,El Palomar,El Palomar,AR-B,-34.609900,-58.612600,,America/Argentina/Buenos_Aires
+SAEZ,EZE,Ministro Pistarini,Ministro Pistarini,Buenos Aires,AR-B,-34.822200,-58.535800,,America/Argentina/Buenos_Aires
+SAHZ,APZ,Zapala,Zapala,Zapala,AR-Q,-38.975498,-70.113602,,America/Argentina/Salta
+SAME,MDZ,Gobernador Francisco Gabrielli,Gobernador Francisco Gabrielli,Mendoza,AR-M,-32.831699,-68.792900,,America/Argentina/Mendoza
+SAMM,LGS,Comodoro Ricardo Salomón,Comodoro Ricardo Salomón,Malargue,AR-M,-35.493599,-69.574303,,America/Argentina/Mendoza
+SANC,CTC,Coronel Felipe Varela,Coronel Felipe Varela,Catamarca,AR-K,-28.593117,-65.751200,,America/Argentina/Catamarca
+SANE,SDE,Vicecomodoro Ángel de la Paz Aragonés,Vicecomodoro Ángel de la Paz Aragonés,Santiago del Estero,AR-G,-27.765556,-64.309998,,America/Argentina/Cordoba
+SANL,IRJ,Capitán Vicente Almandos Almonacid,Capitán Vicente Almandos Almonacid,La Rioja,AR-F,-29.381599,-66.795799,,America/Argentina/La_Rioja
+SANO,,Chilecito,Chilecito,Chilecito,AR-F,-29.223900,-67.438904,,America/Argentina/La_Rioja
+SANR,RHD,Termas de Río Hondo,Termas de Río Hondo,Termas de Río Hondo,AR-G,-27.496600,-64.935950,,America/Argentina/Cordoba
+SANT,TUC,Teniente Benjamín Matienzo,Teniente Benjamín Matienzo,San Miguel de Tucumán,AR-T,-26.840900,-65.104897,,America/Argentina/Tucuman
+SANU,UAQ,Domingo Faustino Sarmiento,Domingo Faustino Sarmiento,San Juan,AR-J,-31.571501,-68.418198,,America/Argentina/San_Juan
+SAOC,RCU,Río Cuarto,Río Cuarto,Río Cuarto,AR-X,-33.085098,-64.261299,,America/Argentina/Cordoba
+SAOR,VME,Villa Reynolds,Villa Reynolds,Villa Mercedes,AR-D,-33.729900,-65.387398,,America/Argentina/San_Luis
+SAOS,RLO,Valle del Conlara,Valle del Conlara,Merlo,AR-D,-32.384701,-65.186501,,America/Argentina/San_Luis
+SAOU,LUQ,Brigadier Mayor César Raúl Ojeda,Brigadier Mayor César Raúl Ojeda,San Luis,AR-D,-33.273201,-66.356400,,America/Argentina/San_Luis
+SARC,CNQ,Doctor Fernando Piragine Niveyro,Doctor Fernando Piragine Niveyro,Corrientes,AR-W,-27.445500,-58.761900,,America/Argentina/Cordoba
+SARE,RES,Resistencia,Resistencia,Resistencia,AR-H,-27.450000,-59.056100,,America/Argentina/Cordoba
+SARF,FMA,Formosa,Formosa,Formosa,AR-P,-26.212700,-58.228100,,America/Argentina/Cordoba
+SARI,IGR,Puerto Iguazú,Puerto Iguazú,Puerto Iguazu,AR-N,-25.737301,-54.473400,,America/Argentina/Cordoba
+SARO,,Ituzaingó Yacireta,Ituzaingó Yacireta,Ituzaingo,AR-W,-27.526100,-56.633301,,America/Argentina/Cordoba
+SARP,PSS,Posadas Libertador General José de San Martín,Posadas Libertador General José de San Martín,Posadas,AR-N,-27.385800,-55.970700,,America/Argentina/Cordoba
+SASA,SLA,Salta Martín Miguel de Güemes,Salta Martín Miguel de Güemes,Salta,AR-A,-24.856001,-65.486198,,America/Argentina/Salta
+SASJ,JUJ,Gobernador Horacio Guzmán,Gobernador Horacio Guzmán,San Salvador,AR-Y,-24.392799,-65.097801,,America/Argentina/Jujuy
+SATR,RCQ,Reconquista,Reconquista,Reconquista,AR-S,-29.210300,-59.680000,,America/Argentina/Cordoba
+SAVC,CRD,General Enrique Mosconi,General Enrique Mosconi,Comodoro Rivadavia,AR-U,-45.785300,-67.465500,,America/Argentina/Catamarca
+SAVE,EQS,Brigadier General Antonio Parodi,Brigadier General Antonio Parodi,Esquel,AR-U,-42.908001,-71.139503,,America/Argentina/Catamarca
+SAVT,REL,Almirante Marcos A. Zar,Almirante Marcos A. Zar,Rawson,AR-U,-43.210500,-65.270300,,America/Argentina/Catamarca
+SAVY,PMY,El Tehuelche,El Tehuelche,Puerto Madryn,AR-U,-42.759200,-65.102700,,America/Argentina/Catamarca
+SAWB,,Gustavo Marambio,Gustavo Marambio,Marambio Base,AQ-U-A,-64.238297,-56.630798,,America/Argentina/Ushuaia
+KRIV,RIV,March Joint,B.A. March Joint,Riverside,US-CA,33.880699,-117.259003,,America/Los_Angeles
+SAWE,RGA,Gobernador Ramón Trejo Noel (AIRTN),Río Grande (AIRTN),Río Grande,AR-V,-53.777700,-67.749400,,America/Argentina/Ushuaia
+SAWG,RGL,Piloto Civil Norberto Fernández,Piloto Civil Norberto Fernández,Río Gallegos,AR-Z,-51.608900,-69.312600,,America/Argentina/Rio_Gallegos
+SAWH,USH,Ushuaia Malvinas Argentinas,Ushuaia Malvinas Argentinas,Ushuaia,AR-V,-54.843300,-68.295800,,America/Argentina/Ushuaia
+SAWP,PMQ,Perito Moreno,Perito Moreno,Perito Moreno,AR-Z,-46.537899,-70.978699,,America/Argentina/Rio_Gallegos
+SAZB,BHI,Comandante Espora,Comandante Espora,Bahia Blanca,AR-B,-38.725000,-62.169300,,America/Argentina/Buenos_Aires
+SAZM,MDQ,Astor Piazolla,Astor Piazolla,Mar del Plata,AR-B,-37.934200,-57.573300,,America/Argentina/Buenos_Aires
+SAZN,NQN,Presidente Perón,Presidente Perón,Neuquen,AR-Q,-38.949001,-68.155701,,America/Argentina/Salta
+SAZR,RSA,Santa Rosa,Santa Rosa,Santa Rosa,AR-L,-36.588299,-64.275703,,America/Argentina/Salta
+SAZS,BRC,Teniente Luis Candelaria,Teniente Luis Candelaria,San Carlos de Bariloche,AR-R,-41.151199,-71.157501,,America/Argentina/Salta
+SAZY,CPC,Chapelco,Chapelco,San Mart. de los Andes,AR-Q,-40.075401,-71.137299,,America/Argentina/Salta
+SBBE,BEL,Belém,Belém,Belém,BR-PA,-1.379279,-48.476207,,America/Belem
+SBBR,BSB,Presidente Juscelino Kubitschek,Presidente Juscelino Kubitschek,Brasília,BR-DF,-15.869167,-47.920834,,America/Sao_Paulo
+SBCB,CFB,Cabo Frio,Cabo Frio,Cabo Frio,BR-RJ,-22.921485,-42.071874,,America/Sao_Paulo
+SBCF,CNF,Tancredo Neves,Tancredo Neves,Belo Horizonte,BR-MG,-19.635710,-43.966928,,America/Sao_Paulo
+SBCG,CGR,Campo Grande,Campo Grande,Campo Grande,BR-MS,-20.469998,-54.673988,,America/Campo_Grande
+SBCR,CMG,Corumbá,Corumbá,Corumbá,BR-MS,-19.011930,-57.672772,,America/Campo_Grande
+KNGU,NGU,Norfolk (Chambers Field),B.N. Norfolk,Norfolk,US-VA,36.937599,-76.289299,,America/New_York
+SBCV,CRQ,Caravelas,Caravelas,Caravelas,BR-BA,-17.652300,-39.253101,,America/Bahia
+SBCY,CGB,Marechal Rondon,Marechal Rondon,Cuiabá,BR-MT,-15.652900,-56.116699,,America/Cuiaba
+SBCZ,CZS,Cruzeiro do Sul,Cruzeiro do Sul,Cruzeiro Do Sul,BR-AC,-7.599910,-72.769501,,America/Rio_Branco
+SBEG,MAO,Eduardo Gomes,Eduardo Gomes,Manaus,BR-AM,-3.038610,-60.049702,,America/Manaus
+SBFI,IGU,Foz do Iguaçu,Foz do Iguaçu,Foz do Iguaçu,BR-PR,-25.594167,-54.489444,,America/Sao_Paulo
+SBFL,FLN,Hercílio Luz,Hercílio Luz,Florianópolis,BR-SC,-27.670279,-48.552502,,America/Sao_Paulo
+SBFZ,FOR,Pinto Martins,Pinto Martins,Fortaleza,BR-CE,-3.775833,-38.532222,,America/Fortaleza
+SHEC,,Edificio Itaú,Hel. Ed. Itaú,Santiago,CL-RM,-33.416555,-70.593563,H,America/Santiago
+SBGO,GYN,Goiânia,Goiânia,Goiânia,BR-GO,-16.632000,-49.220699,,America/Sao_Paulo
+SBGR,GRU,São Paulo-Guarulhos,São Paulo-Guarulhos,São Paulo,BR-SP,-23.431944,-46.467778,,America/Sao_Paulo
+SBJH,JHF,Ejecutivo de São Paulo Catarina,Ejecutivo de São Paulo Catarina,São Roque,BR-SP,-23.426886,-47.165658,,America/Sao_Paulo
+SBKP,VCP,Campinas,Campinas,Campinas,BR-SP,-23.007404,-47.134502,,America/Sao_Paulo
+SHSR,,Edificio Torre San Ramón,Hel. Ed. Torre San Ramón,Santiago,CL-RM,-33.420741,-70.606438,H,America/Santiago
+SBMO,MCZ,Zumbi dos Palmares,Zumbi dos Palmares,Maceió,BR-AL,-9.510810,-35.791698,,America/Maceio
+SBNF,NVT,Navegantes,Navegantes,Navegantes,BR-SC,-26.879431,-48.650979,,America/Sao_Paulo
+SBPA,POA,Salgado Filho,Salgado Filho,Porto Alegre,BR-RS,-29.994712,-51.166592,,America/Sao_Paulo
+SBPK,PET,Pelotas,Pelotas,Pelotas,BR-RS,-31.717253,-52.327952,,America/Sao_Paulo
+SBPP,PMG,Ponta Porã,Ponta Porã,Ponta Porã,BR-MS,-22.549601,-55.702599,,America/Campo_Grande
+SBPS,BPS,Porto Seguro,Porto Seguro,Porto Seguro,BR-BA,-16.438426,-39.080584,,America/Bahia
+SBRB,RBR,Rio Branco,Rio Branco,Río Branco,BR-AC,-9.869031,-67.893984,,America/Rio_Branco
+SBRF,REC,Recife,Recife,Recife,BR-PE,-8.125984,-34.923316,,America/Recife
+SBRG,,Rio Grande,Rio Grande,Río Grande,BR-RS,-32.083065,-52.167184,,America/Sao_Paulo
+SBSG,NAT,Grande Natal,Grande Natal,Natal,BR-RN,-5.769804,-35.366578,,America/Fortaleza
+SBSJ,SJK,São José dos Campos,São José dos Campos,São José Dos Campos,BR-SP,-23.229200,-45.861500,,America/Sao_Paulo
+SBSL,SLZ,Mariscal Cunha Machado,Mariscal Cunha Machado,São Luís,BR-MA,-2.585360,-44.234100,,America/Fortaleza
+SHSM,,Edificio Torre Santa María,Hel. Ed. Torre Santa María,Santiago,CL-RM,-33.423132,-70.622360,H,America/Santiago
+SBSV,SSA,Deputado Luís Eduardo Magalhães,Deputado Luís Eduardo Magalhães,Salvador,BR-BA,-12.908611,-38.322498,,America/Bahia
+SBUG,URG,Uruguaiana,Uruguaiana,Uruguaiana,BR-RS,-29.782200,-57.038200,,America/Sao_Paulo
+SBVT,VIX,Eurico de Aguiar Salles,Eurico de Aguiar Salles,Vitória,BR-ES,-20.258000,-40.285000,,America/Sao_Paulo
+SCAB,,El Alba,El Alba,Melipilla,CL-RM,-33.658694,-71.289877,T,America/Santiago
+SCAC,ZUD,Pupelde,Pupelde,Ancud,CL-LL,-41.904251,-73.796571,T,America/Santiago
+SCAD,,Santa Adriana,Santa Adriana,Ovalle,CL-CO,-30.628611,-71.273056,T,America/Santiago
+SCAE,,El Buitre,El Buitre,Arica,CL-AP,-18.508938,-70.290707,M,America/Santiago
+SCAF,,San Alfonso,San Alfonso,Alhué,CL-RM,-34.060197,-71.253719,T,America/Santiago
+SCAH,,Tolquién,Tolquién,Curaco de Vélez,CL-LL,-42.449402,-73.524696,T,America/Santiago
+SCAI,,Curacautín,Curacautín,Curacautín,CL-AR,-38.431514,-71.923027,T,America/Santiago
+SCAJ,,Las Alpacas,Las Alpacas,Retiro,CL-ML,-36.145279,-71.763054,T,America/Santiago
+SCAK,,Atacalco,Atacalco,Recinto,CL-NB,-36.919383,-71.577764,T,America/Santiago
+SCAL,,Valchac,Valchac,Cochrane,CL-AI,-47.116279,-72.481975,T,America/Santiago
+SCAM,,Alempue,Alempue,Teno,CL-ML,-34.865002,-71.101944,T,America/Santiago
+SCAN,LOB,San Rafael,San Rafael,Los Andes,CL-VS,-32.814201,-70.646698,T,America/Santiago
+SCAO,,Palo Alto,Palo Alto,Lolol,CL-LI,-34.733055,-71.740837,T,America/Santiago
+SCAP,WAP,Alto Palena,Alto Palena,Palena,CL-LL,-43.611900,-71.806099,T,America/Santiago
+SCAQ,,Arquilhué,Arquilhué,Lago Ranco,CL-LR,-40.198299,-72.029198,T,America/Santiago
+SCAR,ARI,Chacalluta,Chacalluta (Arica),Arica,CL-AP,-18.348499,-70.338699,P,America/Santiago
+SCAS,WPA,Cabo 1° Juan Román,Cabo 1° Juan Román (Pto. Aysén),Puerto Aysén,CL-AI,-45.399200,-72.670303,T,America/Santiago
+SCAT,CPO,Desierto de Atacama,Desierto de Atacama (Copiapó),Caldera,CL-AT,-27.261200,-70.779198,P,America/Santiago
+SCAU,,Juan Enrique,Juan Enrique,Paine,CL-RM,-33.893600,-70.885597,T,America/Santiago
+SAWC,FTE,El Calafate Comandante Armando Tola,El Calafate,El Calafate,AR-Z,-50.280300,-72.053101,,America/Argentina/Rio_Gallegos
+SCAY,,Ayacara,Ayacara,Ayacara,CL-LL,-42.310832,-72.790275,T,America/Santiago
+SCAZ,,Azopardo,Azopardo,Timaukel,CL-MA,-54.481014,-68.940689,T,America/Punta_Arenas
+SCBA,BBA,Balmaceda,Balmaceda (Coyhaique),Coyhaique,CL-AI,-45.915968,-71.689499,S,America/Santiago
+SCBB,,Bío Bío,Bío Bío,Negrete,CL-BI,-37.587222,-72.503611,T,America/Santiago
+SCBD,,El Boldal,El Boldal,Santa Cruz,CL-LI,-34.684444,-71.206108,T,America/Santiago
+SCBE,TOQ,Barriles,Barriles,Tocopilla,CL-AN,-22.141100,-70.062897,T,America/Santiago
+SCBG,,Base Presidente Gabriel González Videla,Presidente Gabriel González Videla,Bahía Paraíso,AQ-U-A,-64.823889,-62.857222,T,America/Argentina/Ushuaia
+SCBI,DPB,Pampa Guanaco,Pampa Guanaco,Bahía Inútil,CL-MA,-54.049977,-68.809193,T,America/Punta_Arenas
+SCBL,,El Porvenir,El Porvenir,Casablanca,CL-VS,-33.273056,-71.525278,T,America/Santiago
+SCBN,,Cotreumo,Cotreumo,Río Bueno,CL-LR,-40.400600,-72.661400,T,America/Santiago
+SCBO,,Base General Bernardo O'Higgins,General Bernardo O'Higgins,Base Grl. Bernardo O'Higgins,AQ-U-A,-63.344000,-57.842000,T,America/Punta_Arenas
+SCBQ,,El Bosque,B.A. El Bosque,El Bosque,CL-RM,-33.561798,-70.688400,M,America/Santiago
+SCBR,,Lago Brown,Lago Brown,Lago Brown,CL-AI,-47.391945,-72.317497,T,America/Santiago
+SCBT,,Rincón Bonito,Rincón Bonito,Cochamó,CL-LL,-42.028889,-72.096107,T,America/Santiago
+SCBU,,Bureo,Bureo,Retiro,CL-ML,-35.341435,-70.910800,T,America/Santiago
+SCBV,,Bellavista,Bellavista,Río Claro,CL-ML,-35.189724,-71.296669,T,America/Santiago
+SCCA,,El Boldo,El Boldo,Cauquenes,CL-ML,-35.971390,-72.224998,T,America/Santiago
+SCCB,,Pedro Villarroel,Pedro Villarroel,Combarbalá,CL-CO,-31.221945,-71.070274,T,America/Santiago
+SCCC,CCH,Chile Chico,Chile Chico,Chile Chico,CL-AI,-46.583100,-71.686323,T,America/Santiago
+SCCE,,El Arenal,El Arenal,Cauquenes,CL-ML,-35.896389,-72.055833,T,America/Santiago
+SCCF,CJC,El Loa,El Loa (Calama),Calama,CL-AN,-22.498199,-68.903603,P,America/Santiago
+SCCG,,La Pelícana,La Pelícana,Combarbalá,CL-CO,-31.063889,-70.954445,T,America/Santiago
+SCCH,YAI,General Bernardo O'Higgins,General Bernardo O'Higgins,Chillán,CL-NB,-36.582500,-72.031403,T,America/Santiago
+SCCI,PUQ,Presidente Carlos Ibáñez del Campo,Pdt. Carlos Ibáñez del C. (Pta. Arenas),Punta Arenas,CL-MA,-53.002602,-70.854599,P,America/Punta_Arenas
+SCCK,,Contao,Contao,Contao,CL-LL,-41.800304,-72.722237,T,America/Santiago
+SCCL,,Caldera,Caldera,Caldera,CL-AT,-27.078100,-70.795303,T,America/Santiago
+SCCM,,Molco,Molco,Choshuenco,CL-LR,-39.825001,-72.082497,T,America/Santiago
+SCCN,,Alto Cauquenes,Alto Cauquenes,Cauquenes,CL-ML,-35.880280,-72.327225,T,America/Santiago
+SCCO,,Hacienda Cotrilla,Hacienda Cotrilla,Paillaco,CL-LR,-40.186167,-72.767667,T,America/Santiago
+SCCP,,Callipulli,Callipulli,Osorno,CL-LL,-40.620277,-72.846390,T,America/Santiago
+SCCR,,Enrique Mayer Soto,Enrique Mayer Soto,Tortel,CL-AI,-47.787079,-73.533028,T,America/Santiago
+SCCS,,Santa Rita,Santa Rita,Casablanca,CL-VS,-33.277500,-71.456390,T,America/Santiago
+SCCT,,Quivolgo,Quivolgo,Constitución,CL-ML,-35.308601,-72.392799,T,America/Santiago
+SCCU,,Lolco,Lolco,Lonquimay,CL-AR,-38.158054,-71.423889,T,America/Santiago
+SCCV,,Curacaví,Curacaví,Curacaví,CL-RM,-33.412800,-71.165604,T,America/Santiago
+SCCY,GXQ,Teniente Vidal,Teniente Vidal,Coyhaique,CL-AI,-45.594200,-72.106102,T,America/Santiago
+SCDA,IQQ,Diego Aracena,Diego Aracena (Iquique),Iquique,CL-TA,-20.535200,-70.181297,P,America/Santiago
+SCDD,,Don Dobri,Don Dobri,Puerto Varas,CL-LL,-41.234722,-72.514999,T,America/Santiago
+SCDG,,Aliro García,Aliro García,La Estrella,CL-LI,-34.193889,-71.568056,T,America/Santiago
+SCDH,,Vodudahue,Vodudahue,Chaitén,CL-LL,-42.488888,-72.350555,T,America/Santiago
+SCDI,,Pichidangui,Pichidangui,Pichidangui,CL-CO,-32.143055,-71.505280,T,America/Santiago
+SCDK,,El Patagual,El Patagual,Concepción,CL-BI,-37.025519,-72.982733,T,America/Santiago
+SCDL,,El Algarrobo,El Algarrobo,Cabildo,CL-VS,-32.471943,-70.993057,T,America/Santiago
+SCDM,,San Damián,San Damián,Duao,CL-ML,-34.878056,-72.145554,T,America/Santiago
+SCDQ,,San Lorenzo,San Lorenzo,Duqueco,CL-BI,-37.523335,-71.726112,T,America/Santiago
+SCDS,,San Andrés,San Andrés,Retiro,CL-ML,-36.005554,-71.766670,T,America/Santiago
+SCDW,,Almirante Schroeders,Almirante Schroeders,Isla Dawson,CL-MA,-53.610699,-70.470497,M,America/Punta_Arenas
+SCEA,,El Amarillo,El Amarillo,Chaitén,CL-LL,-43.006111,-72.478333,T,America/Santiago
+SCEB,,Entrada Baker,Entrada Baker,Entrada Baker,CL-AI,-47.184166,-71.976112,T,America/Santiago
+SCED,,Los Cedros,Los Cedros,Sagrada Familia,CL-ML,-35.154999,-71.585281,T,America/Santiago
+SCEG,,El Corte,El Corte,Talagante,CL-RM,-33.709999,-70.913055,T,America/Santiago
+SCEH,,El Huachi,El Huachi,Santa Bárbara,CL-BI,-37.647221,-71.753891,T,America/Santiago
+SCEL,SCL,Comodoro Arturo Merino Benítez,Arturo Merino Benítez (Santiago),Santiago,CL-RM,-33.393002,-70.785797,P,America/Santiago
+SCEO,,El Salto,El Salto,Parral,CL-ML,-36.130280,-71.857498,T,America/Santiago
+SCEP,,El Principal,El Principal,Pirque,CL-RM,-33.724998,-70.510300,T,America/Santiago
+SCER,,Quintero,Quintero,Quintero,CL-VS,-32.790199,-71.521698,M,America/Santiago
+SCES,ESR,Ricardo García Posada,Ricardo García Posada,El Salvador,CL-AT,-26.311100,-69.765198,T,America/Santiago
+SCET,,El Tambo,El Tambo,San Vicente de Tagua Tagua,CL-LI,-34.475555,-71.014168,T,America/Santiago
+SCEV,,El Avellano,El Avellano,Frutillar,CL-LL,-41.117001,-73.050003,T,America/Santiago
+SCEX,,Río Exploradores,Río Exploradores,Aysén,CL-AI,-46.353611,-73.327778,T,America/Santiago
+SCEY,,Entrada Mayer,Entrada Mayer,Entrada Mayer,CL-AI,-48.201452,-72.327590,T,America/Santiago
+SCFA,ANF,Andrés Sabella,Andrés Sabella (Antofagasta),Antofagasta,CL-AN,-23.444501,-70.445099,P,America/Santiago
+SCFF,,Freirina,Freirina,Freirina,CL-AT,-28.526388,-71.061943,T,America/Santiago
+SCFI,,Fundo Tehuén,Fundo Tehuén,Frutillar,CL-LL,-41.095001,-73.126663,T,America/Santiago
+SCFK,,Fundo El Carmen,Fundo El Carmen,Chillán,CL-NB,-36.641796,-72.011862,T,America/Santiago
+SCFL,,Fundo Loma Larga,Fundo Loma Larga,Casablanca,CL-VS,-33.279999,-71.379204,T,America/Santiago
+SCFM,WPR,Capitán Fuentes Martínez,Capitán Fuentes Martínez,Porvenir,CL-MA,-53.253700,-70.319199,T,America/Punta_Arenas
+SCFO,,La Reforma,La Reforma,Pelarco,CL-ML,-35.458057,-71.281113,T,America/Santiago
+SCFR,FRT,Frutillar,Frutillar,Frutillar,CL-LL,-41.130833,-73.064720,T,America/Santiago
+SCFS,,Los Calafates,Los Calafates,Chonchi,CL-LL,-42.678890,-73.896667,T,America/Santiago
+SCFT,FFU,Futaleufú,Futaleufú,Futaleufú,CL-LL,-43.189201,-71.851097,T,America/Santiago
+SCFU,,Loncopan,Loncopan,Futrono,CL-LR,-40.066399,-72.537804,T,America/Santiago
+SCGA,,Punta Galera,Punta Galera,La Unión,CL-LR,-40.001900,-73.696404,T,America/Santiago
+SCGC,UGL,Unión Glaciar,Unión Glaciar,Antártica,AQ-U-A,-79.777778,-83.320833,T,Etc/GMT+6
+SCGD,,Cerro Guido - Gunter Plüschow,Cerro Guido - Gunter Plüschow,Torres del Paine,CL-MA,-50.969662,-72.418639,T,America/Punta_Arenas
+SCGE,LSQ,María Dolores,María Dolores,Los Ángeles,CL-BI,-37.401699,-72.425400,T,America/Santiago
+SCGF,,Golfo Azul,Golfo Azul,Futrono,CL-LR,-40.140833,-72.283611,T,America/Santiago
+SCGH,,Cholguahue,Cholguahue,Los Ángeles,CL-BI,-37.469723,-72.138611,T,America/Santiago
+SCGI,,San Guillermo,San Guillermo,Retiro,CL-ML,-36.001110,-71.829445,T,America/Santiago
+SCGL,,Las Águilas,Las Águilas,Rapel,CL-LI,-34.169167,-71.531113,M,America/Santiago
+SCGM,,Los Gomeros,Los Gomeros,Rengo,CL-LI,-34.361111,-70.881943,T,America/Santiago
+SCGN,,Caleta Gonzalo,Caleta Gonzalo,Caleta Gonzalo,CL-LL,-42.563610,-72.599724,T,America/Santiago
+SCGO,,Los Confines,Los Confines,Angol,CL-AR,-37.794701,-72.687202,T,America/Santiago
+SCGP,,Curaco,Curaco,Panguipulli,CL-LR,-39.536914,-72.356129,T,America/Santiago
+SCGR,,El Manso,El Manso,El Manso,CL-LL,-41.742472,-71.910167,T,America/Santiago
+SCGS,,Siberia,Siberia,Cholguán,CL-BI,-37.177223,-72.079720,T,America/Santiago
+SCGV,,Punta Gaviota,Punta Gaviota,Caleta Chañaral de Aceituno,CL-AT,-29.084444,-71.467222,T,America/Santiago
+SCGY,,Los Guayes,Los Guayes,Cunco,CL-AR,-39.053055,-71.993614,T,America/Santiago
+SCGZ,WPU,Guardiamarina Zañartu,Guardiamarina Zañartu (Pto. Williams),Puerto Williams,CL-MA,-54.931099,-67.626297,S,America/Punta_Arenas
+SCHA,,Chamonate,Chamonate,Copiapó,CL-AT,-27.296900,-70.413101,T,America/Santiago
+SCHC,,Chicureo,Chicureo,Colina,CL-RM,-33.267776,-70.647224,T,America/Santiago
+SCHD,,Chumildén,Chumildén,Chaitén,CL-LL,-42.524445,-72.816948,T,America/Santiago
+SCHE,,Rucamanqui,Rucamanqui,Huépil,CL-BI,-37.199722,-71.896667,T,America/Santiago
+SCHF,,Chufquén,Chufquén,Traiguén,CL-AR,-38.358829,-72.684363,T,America/Santiago
+SCHG,,Almahue,Almahue,Pichidegua,CL-LI,-34.398613,-71.371109,T,America/Santiago
+SCHH,,Punta Baja,Punta Baja,Puerto Guadal,CL-AI,-46.792906,-72.796140,T,America/Santiago
+SCHI,,Ranchillo,Ranchillo,San Carlos,CL-BI,-36.418586,-72.033047,T,America/Santiago
+SCHK,,Hueicolla,Hueicolla,Caleta Hueicolla,CL-LR,-40.158600,-73.654404,T,America/Santiago
+SCHL,,Hacienda Lipangue,Hacienda Lipangue,Lampa,CL-RM,-33.335278,-70.911110,T,America/Santiago
+SCHM,,Punta El Saco,Punta El Saco,Isla Mocha,CL-BI,-38.410000,-73.900833,T,America/Santiago
+SCHN,,Chan Chan,Chan Chan,Choshuenco,CL-LR,-39.865799,-72.131401,T,America/Santiago
+SCHO,,Punta Chungo,Punta Chungo,Los Vilos,CL-CO,-31.882778,-71.476387,T,America/Santiago
+SCHP,,Copihue,Copihue,Retiro,CL-ML,-36.077499,-71.779724,T,America/Santiago
+SCHR,LGR,Cochrane,Cochrane,Cochrane,CL-AI,-47.243591,-72.588150,T,America/Santiago
+SCHT,,Tic Toc,Tic Toc,Chaitén,CL-LL,-43.613056,-72.897499,T,America/Santiago
+SCHU,,Gran Cañón,Gran Cañón,Huasco,CL-AT,-28.098888,-71.146667,T,America/Santiago
+SCHW,,Hualaihué,Hualaihué,Hualaihué,CL-LL,-42.028610,-72.689445,T,America/Santiago
+SCIA,,Isla Apiao,Isla Apiao,Isla Apiao,CL-LL,-42.599724,-73.212219,T,America/Santiago
+SCIB,,Butachauques,Butachauques,Isla Butachauques,CL-LL,-42.308334,-73.142220,T,America/Santiago
+SCIC,ZCQ,General Freire,General Freire,Curicó,CL-ML,-34.966667,-71.216393,T,America/Santiago
+SCID,,Marco Davison Bascur,Marco Davison Bascur,Punta Arenas,CL-MA,-52.881537,-70.753365,T,America/Punta_Arenas
+SCIE,CCP,Carriel Sur,Carriel Sur (Concepción),Talcahuano,CL-BI,-36.772701,-73.063103,P,America/Santiago
+SCIF,,Chollinco,Chollinco,Llifén,CL-LR,-40.205799,-72.231400,T,America/Santiago
+SCIH,,Caleta Andrade,Caleta Andrade,Isla Las Huichas,CL-AI,-45.147777,-73.508614,T,America/Santiago
+SCII,,Puerto Ingeniero Ibáñez,Puerto Ingeniero Ibáñez,Puerto Ingeniero Ibáñez,CL-AI,-46.293966,-71.949601,T,America/Santiago
+SCIK,,Isla Talcán,Isla Talcán,Isla Talcán,CL-LL,-42.744357,-72.966861,T,America/Santiago
+SCIL,,Aucó,Aucó,Illapel,CL-CO,-31.577801,-71.110802,T,America/Santiago
+SCIM,,Isla Mocha,Isla Mocha,Isla Mocha,CL-BI,-38.384998,-73.868896,T,America/Santiago
+SCIN,,Mininco,Mininco,Collipulli,CL-AR,-37.848000,-72.462833,T,America/Santiago
+SCIO,,Laguna Redonda,Laguna Redonda,Villa O'Higgins,CL-AI,-48.933578,-72.799614,T,America/Santiago
+SCIP,IPC,Mataveri,Mataveri (Rapa Nui),Hanga Roa,CL-VS,-27.164801,-109.421997,P,Pacific/Easter
+SCIQ,,Santa Cecilia,Santa Cecilia,Ñiquén,CL-NB,-36.274444,-71.897222,T,America/Santiago
+SCIR,,Robinson Crusoe,Robinson Crusoe (Juan Fernández),Juan Fernández,CL-VS,-33.665001,-78.929703,T,America/Santiago
+SCIS,,Puerto Sur,Puerto Sur,Isla Santa María,CL-BI,-37.026112,-73.506943,T,America/Santiago
+SCIT,,Iván Martínez,Iván Martínez,Isla Grande de T. del F.,CL-MA,-52.955002,-70.032799,T,America/Punta_Arenas
+SCJK,,Juan Kemp,Juan Kemp,Osorno,CL-LL,-40.884445,-72.368889,T,America/Santiago
+SCJO,ZOS,Cañal Bajo Carlos Hott Siebert,Cañal Bajo (Osorno),Osorno,CL-LL,-40.611198,-73.060997,S,America/Santiago
+SCJS,,José Abel Sepúlveda,José Abel Sepúlveda,Ñiquén,CL-NB,-36.234129,-72.059510,T,America/Santiago
+SCJV,,El Parrón,El Parrón,San Javier de Loncomilla,CL-ML,-35.548054,-71.776108,T,America/Santiago
+SCKA,,Santa Marta,Santa Marta,San Carlos,CL-NB,-36.490767,-71.890692,T,America/Santiago
+SCKB,,Llolle Norte,Llolle Norte,Lago Caburgua,CL-AR,-39.057499,-71.689720,T,America/Santiago
+SCKC,,Roberto Chávez,Roberto Chávez,Cunco,CL-AR,-38.906944,-72.215279,T,America/Santiago
+SCKD,,El Cardal,El Cardal,Río Bueno,CL-LR,-40.467800,-72.684998,T,America/Santiago
+SCKE,,Piedra Negra,Piedra Negra,Pelluhue,CL-ML,-35.854443,-72.645836,T,America/Santiago
+SCKI,,Los Lirios,Los Lirios,Curicó,CL-ML,-34.903889,-71.201385,T,America/Santiago
+SCKL,,Lipangui,Lipangui,Lampa,CL-RM,-33.331112,-70.849998,T,America/Santiago
+SCKM,,Cochamó,Cochamó,Cochamó,CL-LL,-41.483334,-72.300003,T,America/Santiago
+SCKN,,Licancel,Licancel,Licantén,CL-ML,-34.989166,-72.018890,T,America/Santiago
+SCKO,,Agua Buena,Agua Buena,Collipulli,CL-AR,-37.993889,-72.249168,T,America/Santiago
+SCKP,CPP,Coposa,Coposa,Pica,CL-TA,-20.750500,-68.683502,T,America/Santiago
+SCKQ,,Curimanque,Curimanque,Pucón,CL-AR,-39.326946,-72.027222,T,America/Santiago
+SCKT,,Torreón,Torreón,Coelemu,CL-NB,-36.499399,-72.679857,T,America/Santiago
+SCKU,QUI,Chuquicamata,Chuquicamata,Chuquicamata,CL-AN,-22.318160,-68.928866,T,America/Santiago
+SCLA,,Tilama,Tilama,Los Vilos,CL-AR,-38.542778,-72.454720,T,America/Santiago
+SCLB,,Los Pehuenches,Los Pehuenches,Lebu,CL-BI,-37.658054,-73.629448,T,America/Santiago
+SCLC,,Municipal de Vitacura,Municipal de Vitacura,Santiago,CL-RM,-33.380798,-70.582199,T,America/Santiago
+SCLD,,Llanada Grande,Llanada Grande,Llanada Grande,CL-LL,-41.866699,-71.934402,T,America/Santiago
+SCLE,,La Escondida,La Escondida,Antofagasta,CL-AN,-24.294701,-69.131699,T,America/Santiago
+SCLF,,Calcurrupe,Calcurrupe,Llifén,CL-LR,-40.244202,-72.236900,T,America/Santiago
+SCLG,,La Aguada,La Aguada,Pencahue,CL-ML,-35.342777,-71.776947,T,America/Santiago
+SCLI,,Torca,Torca,Llico,CL-ML,-34.783333,-72.050835,T,America/Santiago
+SCLJ,,La Junta,La Junta,Puerto Cisnes,CL-AI,-43.975277,-72.413055,T,America/Santiago
+SCLK,,Lago Colico,Lago Colico,Cunco,CL-AR,-39.057499,-72.074165,T,America/Santiago
+SCLL,VLR,Vallenar,Vallenar,Vallenar,CL-AT,-28.596399,-70.755997,T,America/Santiago
+SCLM,,Las Mercedes,Las Mercedes,San Javier de Loncomilla,CL-ML,-35.500000,-71.880836,T,America/Santiago
+SCLN,ZLR,Municipal de Linares,Municipal de Linares,Linares,CL-ML,-35.861698,-71.548599,T,America/Santiago
+SCLO,,Los Leones,Los Leones,Puerto Guadal,CL-AI,-46.765556,-72.818336,T,America/Santiago
+SCLP,,Los Petiles,Los Petiles,Molina,CL-ML,-35.215557,-71.108612,T,America/Santiago
+SCLQ,,Diego Portales,Diego Portales,La Ligua,CL-VS,-32.452499,-71.258888,T,America/Santiago
+SCLR,,Los Alerces,Los Alerces,Chaitén,CL-LL,-42.780893,-72.645240,T,America/Santiago
+SCLS,,Esperanza,Esperanza,Lautaro,CL-AR,-38.548889,-72.145836,T,America/Santiago
+SCLT,,Topocalma,Topocalma,Litueche,CL-LI,-34.112222,-71.938056,T,America/Santiago
+SCLU,,La Laguna,La Laguna,Marchihue,CL-LI,-34.352501,-71.663887,T,America/Santiago
+SCLV,,La Viña,La Viña,Los Vilos,CL-CO,-32.138054,-71.398056,T,America/Santiago
+SCLY,,La Playa,La Playa,Arauco,CL-BI,-37.216389,-73.233055,T,America/Santiago
+SCMA,,Puerto Marín Balmaceda,Puerto Marín Balmaceda,Puerto Raúl Marín Balmaceda,CL-AI,-43.787633,-72.950994,T,America/Santiago
+SCMB,,La Chimba,La Chimba,Antofagasta,CL-AN,-23.553600,-70.396103,T,America/Santiago
+SCMC,,Meseta Cosmelli,Meseta Cosmelli,Puerto Guadal,CL-AI,-46.746060,-72.527319,T,America/Santiago
+SCME,,Los Cuatro Diablos,Los Cuatro Diablos,Melipilla,CL-RM,-33.676109,-71.143333,T,America/Santiago
+SCMF,,Malloco,Malloco,Villarrica,CL-AR,-39.255833,-72.343330,T,America/Santiago
+SCMG,,Santa María de Mingre,Santa María de Mingre,San Javier de Loncomilla,CL-ML,-35.570557,-72.003891,T,America/Santiago
+SCMH,,La Esperanza,La Esperanza,Marchihue,CL-LI,-34.287224,-71.558334,T,America/Santiago
+SCMI,,Los Tricahues,Los Tricahues,Mialqui,CL-CO,-30.737499,-70.859726,T,America/Santiago
+SCMK,,Melinka,Melinka,Melinka,CL-AI,-43.895000,-73.738892,T,America/Santiago
+SCML,,Melipeuco,Melipeuco,Melipeuco,CL-AR,-38.856111,-71.812500,T,America/Santiago
+SCMN,,Mansel,Mansel,Paine,CL-RM,-33.862398,-70.771008,T,America/Santiago
+SCMO,,Los Monos,Los Monos,Molina,CL-ML,-35.190277,-71.418610,T,America/Santiago
+SCMP,,Melipilla,Melipilla,Melipilla,CL-RM,-33.673889,-71.193611,T,America/Santiago
+SCMR,,Las Águilas Oriente,Las Águilas Oriente,Rapel,CL-LI,-34.153333,-71.514722,M,America/Santiago
+SCMS,,Las Moras,Las Moras,Longaví,CL-ML,-36.010278,-71.594444,T,America/Santiago
+SCMU,,Panilonco,Panilonco,Pichilemu,CL-LI,-34.281113,-71.946945,T,America/Santiago
+SCMV,,Viña San Pedro,Viña San Pedro,Molina,CL-ML,-35.105835,-71.327774,T,America/Santiago
+SCMZ,,Marina de Rapel,Marina de Rapel,El Manzano,CL-LI,-34.151669,-71.445831,T,America/Santiago
+SCNA,,Fundo La Caña,Fundo La Caña,Linares,CL-ML,-35.976389,-71.597222,T,America/Santiago
+SCNC,,Santa Bárbara Ruta 7,Santa Bárbara Ruta 7,Chaitén,CL-LL,-42.845833,-72.793611,T,America/Santiago
+SCND,,Ñadis,Ñadis,Ñadis,CL-AI,-47.470720,-72.930130,T,America/Santiago
+SCNE,,María Elena,María Elena,María Elena,CL-AN,-22.303669,-69.705527,T,America/Santiago
+SCNH,,Ainhoa,Ainhoa,Vilcún,CL-AR,-38.683333,-72.243889,T,America/Santiago
+SCNI,,Santa Eugenia,Santa Eugenia,San Nicolás,CL-NB,-36.437157,-72.159170,T,America/Santiago
+SCNK,,Los Pelambres,Los Pelambres,Cuncumén,CL-CO,-31.873056,-70.618332,T,America/Santiago
+SCNL,,Villa Cerro Castillo,Villa Cerro Castillo,Río Ibañez,CL-LL,-51.260163,-72.335236,T,America/Punta_Arenas
+SCNM,,Las Misiones,Las Misiones,Cañete,CL-BI,-37.776112,-73.383614,T,America/Santiago
+SCNO,,Ñochaco,Ñochaco,Ñochaco,CL-LL,-40.892868,-72.879997,T,America/Santiago
+SCNP,,Nueva Pintacura,Nueva Pintacura,Illapel,CL-CO,-31.707500,-71.247170,T,America/Santiago
+SCNR,,Fundo Naicura,Fundo Naicura,Rengo,CL-LI,-34.320278,-70.920280,T,America/Santiago
+SCNT,PNT,Teniente Julio Gallardo,Teniente Julio Gallardo (Pto. Natales),Natales,CL-MA,-51.670670,-72.529078,S,America/Punta_Arenas
+SCOA,,Estancia Los Loros,Estancia Los Loros,Ovalle,CL-CO,-30.789444,-71.618332,T,America/Santiago
+SCOC,,Las Araucarias,Las Araucarias,Puerto Octay,CL-LL,-40.993057,-72.659721,T,America/Santiago
+SCOE,,San Miguel,San Miguel,Romeral,CL-ML,-34.962223,-71.016388,T,America/Santiago
+SCOH,,Villa O'Higgins,Villa O'Higgins,Villa O'Higgins,CL-AI,-48.469212,-72.564316,T,America/Santiago
+SCOI,,Los Coipos,Los Coipos,Hualañé,CL-ML,-34.912778,-71.660833,T,America/Santiago
+SCOL,,Refugio del Lago,Refugio del Lago,Puyehue,CL-LL,-40.689445,-72.345558,T,America/Santiago
+SCOM,,Olmué,Olmué,Olmué,CL-VS,-32.997093,-71.171690,T,America/Santiago
+SCON,,Quellón,Quellón,Quellón,CL-LL,-43.136700,-73.635002,T,America/Santiago
+SCOO,,Cerro Coloso,Cerro Coloso,Antofagasta,CL-AN,-44.097500,-73.096944,T,America/Santiago
+SCOP,,Pilauco,Pilauco,Osorno,CL-LL,-40.569168,-73.129997,T,America/Santiago
+SCOR,,Algorta,Algorta,Sierra Gorda,CL-AN,-23.118333,-69.877778,T,America/Santiago
+SCOS,,Entre Ríos,Entre Ríos,Talagante,CL-LL,-40.547199,-73.155602,T,America/Santiago
+SCOT,,Santa Rosa de Tabalí,Santa Rosa de Tabalí,Ovalle,CL-CO,-30.676500,-71.401001,T,America/Santiago
+SCOV,OVL,El Tuquí,El Tuquí,Ovalle,CL-CO,-30.559200,-71.175598,T,America/Santiago
+SCOY,,Huayanay,Huayanay,Ovalle,CL-CO,-30.430555,-71.532219,T,America/Santiago
+SCPA,,Paranal,Paranal,Antofagasta,CL-AN,-24.639400,-70.348900,T,America/Santiago
+SCPB,,Puelo Bajo,Puelo Bajo,Puelo Bajo,CL-LL,-41.662224,-72.302223,T,America/Santiago
+SCPC,ZPC,Pucón,Pucón,Pucón,CL-AR,-39.292801,-71.915901,T,America/Santiago
+SCPD,,Peldehue,Peldehue,Santiago,CL-RM,-33.118575,-70.683074,T,America/Santiago
+SCPE,,San Pedro de Atacama,San Pedro de Atacama,San Pedro de Atacama,CL-AN,-22.921700,-68.158401,T,America/Santiago
+SCPF,,Marcel Marchant,Marcel Marchant,Puerto Montt,CL-LL,-41.457779,-72.918610,T,America/Santiago
+SCPG,,Municipal de Panguipulli,Municipal de Panguipulli,Panguipulli,CL-LR,-39.653301,-72.360298,T,America/Santiago
+SCPH,,Puyuhuapi,Puyuhuapi,Puyuhuapi,CL-AI,-44.385601,-72.594200,T,America/Santiago
+SCPI,,Pullami,Pullami,Coihueco,CL-NB,-36.586667,-71.807778,T,America/Santiago
+SCPK,,Puerto Cisnes,Puerto Cisnes,Puerto Cisnes,CL-AI,-44.758657,-72.698325,T,America/Santiago
+SCPL,,Calpulli,Calpulli,Paillaco,CL-LR,-40.128899,-72.661697,T,America/Santiago
+SCPM,,Pichilemu,Pichilemu,Pichilemu,CL-LI,-34.394165,-72.019165,T,America/Santiago
+SCPN,,Pillán,Pillán,Chaitén,CL-LL,-42.546112,-72.494164,T,America/Santiago
+SCPO,,Los Paltos,Los Paltos,Quinta de Tilcoco,CL-LI,-34.328056,-70.964165,T,America/Santiago
+SCPP,,Poco a Poco,Poco a Poco,Mulchén,CL-BI,-37.848888,-72.008331,T,America/Santiago
+SCPQ,MHC,Mocopulli,Mocopulli (Castro),Dalcahue,CL-LL,-42.340388,-73.715693,S,America/Santiago
+SCPR,,Corte Alto,Corte Alto,Purranque,CL-LL,-40.943333,-73.169998,T,America/Santiago
+SCPT,,La Puerta,La Puerta,Santa Cruz,CL-LI,-34.613056,-71.375833,T,America/Santiago
+SCPU,,Peulla,Peulla,Peulla,CL-LL,-41.054165,-72.008331,T,America/Santiago
+SCPV,PUX,El Mirador,El Mirador,Puerto Varas,CL-LL,-41.349400,-72.946701,T,America/Santiago
+SCPW,,Peumo,Peumo,Peumo,CL-LI,-34.408890,-71.168892,T,America/Santiago
+SCPY,,Cerro Castillo,Cerro Castillo,Cerro Castillo,CL-MA,-51.262222,-72.337502,T,America/Punta_Arenas
+SCQC,,La Colmena,La Colmena,Quino,CL-AR,-38.333057,-72.586945,T,America/Santiago
+SCQE,,Quenac,Quenac,Isla Quenac,CL-LL,-42.467224,-73.335831,T,America/Santiago
+SCQI,,Icalma,Icalma,Icalma,CL-AR,-38.733339,-71.218067,T,America/Santiago
+SCQK,,Lequecahue,Lequecahue,Tirúa,CL-BI,-38.362655,-73.489780,T,America/Santiago
+SCQL,,El Boco,El Boco,Quillota,CL-VS,-32.851112,-71.246391,T,America/Santiago
+SCQM,,Las Quemas,Las Quemas,Osorno,CL-LL,-40.638332,-73.127792,T,America/Santiago
+SCQO,,Quitralco,Quitralco,Aysén,CL-AI,-45.580556,-73.225556,T,America/Santiago
+SCQP,ZCO,La Araucanía,La Araucanía (Temuco),Freire,CL-AR,-38.925900,-72.651500,P,America/Santiago
+SCQR,,Los Morros,Los Morros,Cobquecura,CL-NB,-36.122624,-72.804916,T,America/Santiago
+SCQT,,Las Tacas,Las Tacas,Las Tacas,CL-CO,-30.096399,-71.364098,T,America/Santiago
+SCQU,,Inio,Inio,Quellón,CL-LL,-43.351667,-74.115833,T,America/Santiago
+SCQW,,Quemchi,Quemchi,Quemchi,CL-LL,-42.152779,-73.516945,T,America/Santiago
+SCQX,,Queilén,Queilén,Queilén,CL-LL,-42.893055,-73.476387,T,America/Santiago
+SCQY,,Villa Portales,Villa Portales,Lonquimay,CL-AR,-38.449902,-71.354797,T,America/Santiago
+SCRA,CNR,Chañaral,Chañaral,Chañaral,CL-AT,-26.332500,-70.607300,T,America/Santiago
+SCRB,,Río Bravo,Río Bravo,Tortel,CL-AI,-47.990466,-73.142261,T,America/Santiago
+SCRC,,Villa Tapera,Villa Tapera,Río Cisnes,CL-AI,-44.626389,-71.638885,T,America/Santiago
+SCRD,VAP,Rodelillo,Rodelillo,Valparaíso,CL-VS,-33.068100,-71.557503,T,America/Santiago
+SCRE,,Estancia Río Cisnes,Estancia Río Cisnes,Río Cisnes,CL-AI,-44.500000,-71.321663,T,America/Santiago
+SCRF,,Laguna San Rafael,Laguna San Rafael,Laguna San Rafael,CL-AI,-46.638889,-73.849998,T,America/Santiago
+SCRG,QRC,la Independencia,Independencia,Rancagua,CL-LI,-34.173698,-70.775703,T,America/Santiago
+SCRH,,Reñihué,Reñihué,Reñihué,CL-LL,-42.585556,-72.494446,T,America/Santiago
+SCRI,,Río Frío,Río Frío,Río Frío,CL-LL,-41.742820,-71.909981,T,America/Santiago
+SCRL,,La Estrella,La Estrella,Rapel,CL-LI,-34.201111,-71.481667,T,America/Santiago
+SCRM,TNM,Teniente Rodolfo Marsh Martin,Tte. Rodolfo Marsh Martin (Antártica),Isla Rey Jorge,AQ-U-A,-62.191026,-58.986690,T,America/Punta_Arenas
+SCRN,,Río Negro,Río Negro,Hualaihué,CL-LL,-41.962223,-72.453888,T,America/Santiago
+SCRO,,Santa Bárbara,Santa Bárbara,Romeral,CL-ML,-34.958889,-71.182777,T,America/Santiago
+SCRP,,Rapelhuapi,Rapelhuapi,Rapel,CL-LI,-34.105801,-71.512802,T,America/Santiago
+SCRR,,Purrahuín,Purrahuín,Río Bueno,CL-LR,-40.365278,-72.776667,T,America/Santiago
+SCRS,,El Rosario,El Rosario,Cartagena,CL-VS,-33.488889,-71.405556,T,America/Santiago
+SCRT,,El Almendro,El Almendro,Retiro,CL-ML,-35.960556,-71.793335,T,America/Santiago
+SCRU,,Río Murta,Río Murta,Río Murta,CL-AI,-46.455673,-72.676653,T,America/Santiago
+SCRV,,La Verónica,La Verónica,Vilcún,CL-AR,-38.611389,-72.128889,T,America/Santiago
+SCRW,,Rucalonco,Rucalonco,Paredones,CL-LI,-34.548611,-72.045280,T,America/Santiago
+SCRX,,Pintacura,Pintacura,Illapel,CL-CO,-31.682389,-71.265639,T,America/Santiago
+SCRY,,El Arrayán,El Arrayán,Puerto Varas,CL-LL,-41.402778,-72.943333,T,America/Santiago
+SCRZ,,El Carrizal,El Carrizal,Marchihue,CL-LI,-34.443333,-71.706111,T,America/Santiago
+SCSA,,Alberto Santos Dumont,Alberto Santos Dumont,Tiltil,CL-RM,-33.028610,-70.879997,T,America/Santiago
+SCSB,SMB,Franco Bianco,Franco Bianco,Cerro Sombrero,CL-MA,-52.736698,-69.333603,T,America/Punta_Arenas
+SCSD,,San Fernando,San Fernando,San Fernando,CL-LI,-34.565800,-70.968300,T,America/Santiago
+SCSE,LSC,La Florida,La Florida (La Serena),La Serena,CL-CO,-29.916201,-71.199501,P,America/Santiago
+SCSF,SSD,Víctor Lafón,Víctor Lafón,San Felipe,CL-VS,-32.745800,-70.705002,T,America/Santiago
+SCSG,,San Gerónimo,San Gerónimo,Algarrobo,CL-VS,-33.353298,-71.626099,T,America/Santiago
+SCSH,,El Budi,El Budi,Teodoro Schmidt,CL-AR,-39.062778,-73.169998,T,America/Santiago
+SCSJ,,San Javier,San Javier,San Javier de Loncomilla,CL-ML,-35.629723,-71.699722,T,America/Santiago
+SCSK,,Colorado,Colorado,San Clemente,CL-ML,-35.663055,-71.303612,T,America/Santiago
+SCSL,,El Salar,El Salar,Salar de Atacama,CL-AN,-23.648899,-68.305000,T,America/Santiago
+SCSM,,Minsal,Minsal,Salar de Atacama,CL-AN,-23.585278,-68.382774,T,America/Santiago
+SCSN,,Santo Domingo,Santo Domingo,Santo Domingo,CL-VS,-33.656399,-71.614403,T,America/Santiago
+SCSO,,Costa del Sol,Costa del Sol,Lago Rapel,CL-LI,-34.120834,-71.527222,T,America/Santiago
+SCSP,,El Sobrante,El Sobrante,Petorca,CL-VS,-32.223611,-70.800000,T,America/Santiago
+SCSR,,Segundo Corral,Segundo Corral,Segundo Corral,CL-LL,-42.083332,-71.863892,T,America/Santiago
+SCSS,,San Sebastián,San Sebastián,San Sebastián,CL-MA,-53.316262,-68.657343,T,America/Punta_Arenas
+SCST,WCA,Gamboa,Gamboa,Castro,CL-LL,-42.490299,-73.772797,T,America/Santiago
+SCSU,,Santa Lucía,Santa Lucía,Freire,CL-AR,-38.919167,-72.366669,T,America/Santiago
+SCSV,,Viña Sutil,Viña Sutil,Peralillo,CL-LI,-34.448891,-71.385834,T,America/Santiago
+SCSZ,,Puerto Sánchez,Puerto Sánchez,Puerto Sánchez,CL-AI,-46.592434,-72.585932,T,America/Santiago
+SCTA,,Santa Luisa,Santa Luisa,Santa Bárbara,CL-BI,-37.743889,-71.710000,T,America/Santiago
+SCTB,,Eulogio Sánchez,Eulogio Sánchez (Tobalaba),Santiago,CL-RM,-33.456299,-70.546700,T,America/Santiago
+SCTC,PZS,Maquehue,Base Aérea Maquehue,Padre Las Casas,CL-AR,-38.766800,-72.637100,M,America/Santiago
+SCTE,PMC,El Tepual,El Tepual (Pto. Montt),Puerto Montt,CL-LL,-41.438900,-73.094002,P,America/Santiago
+SCTG,,Tongoy,Tongoy,Tongoy,CL-CO,-30.266388,-71.483612,T,America/Santiago
+SCTH,,Tres Chorrillos,Tres Chorrillos,San Gregorio,CL-MA,-52.525278,-70.723889,T,America/Punta_Arenas
+SCTL,TLX,Panguilemo,Panguilemo,Talca,CL-ML,-35.377800,-71.601700,T,America/Santiago
+SCTM,,La Montaña,La Montaña,Curicó,CL-ML,-34.968900,-70.933300,T,America/Santiago
+SCTN,WCH,Chaitén,Chaitén,Chaitén,CL-LL,-42.932800,-72.699100,T,America/Santiago
+SCTO,ZIC,Victoria,Victoria,Victoria,CL-AR,-38.245602,-72.348602,T,America/Santiago
+SCTP,,Río Pascua,Río Pascua,Tortel,CL-AI,-48.229030,-73.299127,T,America/Santiago
+SCTQ,,Tres Quebradas,Tres Quebradas,Alto del Carmen,CL-AT,-29.260000,-70.087000,T,America/Santiago
+SCTR,,Traiguén,Traiguén,Traiguén,CL-AR,-38.271389,-72.662498,T,America/Santiago
+SCTS,,Santa Teresa del Almendral,Santa Teresa del Almendral,Melipilla,CL-RM,-33.575554,-71.260834,T,America/Santiago
+SCTT,TTC,Las Breas,Las Breas,Taltal,CL-AN,-25.564301,-70.375900,T,America/Santiago
+SCTU,,Litueche,Litueche,Litueche,CL-LI,-34.110554,-71.715836,T,America/Santiago
+SCTW,,El Tapihue,El Tapihue,Casablanca,CL-VS,-33.320278,-71.336113,T,America/Santiago
+SCUA,,Guanaco,Guanaco,Taltal,CL-AN,-25.096667,-69.510000,T,America/Santiago
+SCUE,,La Peña,La Peña,Pencahue,CL-ML,-35.266389,-71.763056,T,America/Santiago
+SCUH,,Cuincahin,Cuincahin,Río Bueno,CL-LR,-40.413333,-72.759722,T,America/Santiago
+SCUI,,Pumalín,Pumalín,Chaitén,CL-LL,-42.701107,-72.834280,T,America/Santiago
+SCUL,,El Litral,El Litral,Bulnes,CL-NB,-36.796764,-72.417288,T,America/Santiago
+SCUM,,La Obra,La Obra,Cumpeo,CL-ML,-35.300556,-71.330276,T,America/Santiago
+SCUN,,Bellavista de Punitaqui,Bellavista de Punitaqui,Punitaqui,CL-ML,-34.813057,-71.046112,T,America/Santiago
+SCUP,,Lontuecito,Lontuecito,Cumpeo,CL-ML,-35.282223,-71.236389,T,America/Santiago
+SCUR,,Rucamalén,Rucamalén,Bulnes,CL-NB,-36.811943,-72.167221,T,America/Santiago
+SCUT,,Verfrut Sur,Verfrut Sur,Longaví,CL-ML,-36.212502,-71.544441,T,America/Santiago
+SCUU,,El Peral,El Peral,Illapel,CL-CO,-31.653369,-71.243344,T,America/Santiago
+SCUZ,,Aerosantacruz,Aerosantacruz,Santa Cruz,CL-LI,-34.649166,-71.386108,T,America/Santiago
+SCVA,,Viñamar,Viñamar,Casablanca,CL-VS,-33.356945,-71.354164,T,America/Santiago
+SCVB,,Hospital Villa Baviera,Hospital Villa Baviera,Parral,CL-ML,-36.400276,-71.563332,T,America/Santiago
+SCVC,,El Indio,El Indio,Vicuña,CL-CO,-29.834444,-70.046112,T,America/Santiago
+SCVD,ZAL,Pichoy,Pichoy (Valdivia),Mariquina,CL-LR,-39.650002,-73.086098,T,America/Santiago
+SCVE,,Lago Verde,Lago Verde,Lago Verde,CL-AI,-44.270832,-71.916664,T,America/Santiago
+SCVF,,Verfrut,Verfrut,San Pedro,CL-RM,-34.007221,-71.391945,T,America/Santiago
+SCVG,,El Vergel,El Vergel,Riñihue,CL-LR,-39.829399,-72.488297,T,America/Santiago
+SCVH,,La Victoria de Chacabuco,La Victoria de Chacabuco,Colina,CL-RM,-33.050835,-70.708885,T,America/Santiago
+SCVI,,Villarrica,Villarrica,Villarrica,CL-AR,-39.316672,-72.228696,T,America/Santiago
+SCVJ,,Paredes Viejas,Paredes Viejas,Marchihue,CL-LI,-34.395832,-71.545280,T,America/Santiago
+SCVK,,El Álamo,El Álamo,Vichuquén,CL-ML,-34.847778,-72.022224,T,America/Santiago
+SCVL,,Las Marías,Las Marías,Valdivia,CL-LR,-39.796902,-73.241699,T,America/Santiago
+KFTW,FTW,Fort Worth Meacham International,Fort Worth Meacham,Fort Worth,US-TX,32.819801,-97.362396,,America/Chicago
+SCVN,,Huancara,Huancara,Vicuña,CL-CO,-30.032615,-70.742083,T,America/Santiago
+SCVO,,María Ester,María Ester,Victoria,CL-AR,-38.231945,-72.483330,T,America/Santiago
+SCVQ,,Cuatro Pantanos,Cuatro Pantanos,Vichuquén,CL-ML,-34.837223,-72.065002,T,America/Santiago
+SCVS,,Lago Vargas,Lago Vargas,Cochrane,CL-AI,-47.679513,-73.071039,T,America/Santiago
+SCVT,,Viña Tarapacá,Viña Tarapacá,Isla de Maipo,CL-RM,-33.766109,-70.923889,T,America/Santiago
+SCVU,,Agromanzún,Agromanzún,Vilcún,CL-AR,-38.695835,-72.340553,T,America/Santiago
+SCVV,,Los Maitenes de Villa Vieja,Los Maitenes de Villa Vieja,La Unión,CL-LR,-40.317423,-72.980365,T,America/Santiago
+SCVZ,,Viña Santa Cruz,Viña Santa Cruz,Lolol,CL-LI,-34.698674,-71.563258,T,America/Santiago
+SCXA,,Alupenhue,Alupenhue,Molina,CL-ML,-35.239445,-71.070831,T,America/Santiago
+SCXB,,Las Brujas,Las Brujas,Salamanca,CL-CO,-31.786667,-71.011108,T,America/Santiago
+SCXR,,Las Bandurrias,Las Bandurrias,Lago Ranco,CL-LR,-40.320000,-72.224998,T,America/Santiago
+SCYB,,Trilahue,Trilahue,Yumbel,CL-BI,-37.117222,-72.411110,T,America/Santiago
+SCYL,,Licán,Licán,Puyehue,CL-LR,-40.641399,-72.411102,T,America/Santiago
+SCYO,,Poyo,Poyo,Poyo,CL-LL,-42.226667,-72.693611,T,America/Santiago
+SCYR,,Los Maitenes,Los Maitenes,Retiro,CL-ML,-36.031666,-71.741112,T,America/Santiago
+SCYU,,Cuyumaique,Cuyumaique,Purranque,CL-LL,-40.940556,-73.011667,T,America/Santiago
+SCZA,,La Empastada,La Empastada,Zapallar,CL-VS,-32.591379,-71.378564,T,America/Santiago
+SCZB,,Pozo Brujo,Pozo Brujo,La Unión,CL-LR,-40.205278,-72.568056,T,America/Santiago
+SCZC,,Casas Viejas,Casas Viejas,Zapallar,CL-VS,-32.595276,-71.347221,T,America/Santiago
+SCZE,,Estero Seco,Estero Seco,Pirque,CL-RM,-33.744999,-70.549446,T,America/Santiago
+SCZR,,Los Zorrillos de Tonlemu,Los Zorrillos de Tonlemu,Curepto,CL-ML,-35.096246,-71.732719,T,America/Santiago
+SDSC,QSC,São Carlos,São Carlos,São Carlos,BR-SP,-21.875401,-47.903703,,America/Sao_Paulo
+SECU,CUE,Mariscal Lamar,Mariscal Lamar,Cuenca,EC-A,-2.889470,-78.984398,,America/Guayaquil
+SEGU,GYE,José Joaquín de Olmedo - Guayaquil,José Joaquín de Olmedo - Guayaquil,Guayaquil,EC-G,-2.157420,-79.883598,,America/Guayaquil
+SELT,LTX,Cotopaxi,Cotopaxi,Latacunga,EC-X,-0.906833,-78.615799,,America/Guayaquil
+SEMT,MEC,Eloy Alfaro - Manta,Eloy Alfaro - Manta,Manta,EC-M,-0.946078,-80.678802,,America/Guayaquil
+SEQM,UIO,Mariscal Sucre,Mariscal Sucre,Quito,EC-P,-0.125399,-78.354306,,America/Guayaquil
+SEQU,,Mariscal Sucre,Base Aérea Mariscal Sucre,Quito,EC-P,-0.136782,-78.490598,,America/Guayaquil
+SFAL,PSY,Puerto Argentino/Stanley,Puerto Argentino/Stanley,Stanley,FK-U-A,-51.685699,-57.777599,,Atlantic/Stanley
+SGAS,ASU,Silvio Pettirossi,Silvio Pettirossi,Asunción,PY-11,-25.240156,-57.519227,,America/Asuncion
+SGES,AGT,Guaraní,Guaraní,Ciudad del Este,PY-10,-25.457186,-54.839544,,America/Asuncion
+SGME,ESG,Dr. Luis María Argaña,Dr. Luis María Argaña,Mariscal Estigarribia,PY-19,-22.033912,-60.618964,,America/Asuncion
+SHAB,,Aguas Blancas,Hel. Aguas Blancas,Puchuncavi,CL-VS,-32.665556,-71.440278,H,America/Santiago
+KGRB,GRB,Green Bay–Austin Straubel International,Green Bay–Austin Straubel,Green Bay,US-WI,44.483459,-88.130805,,America/Chicago
+SHAD,,Matanzas,Hel. Matanzas,Navidad,CL-LI,-33.967778,-71.853889,H,America/Santiago
+SHAE,,Aerorescate,Hel. Aerorescate,Pudahuel,CL-RM,-33.439722,-70.831389,H,America/Santiago
+SHAL,,Los Paltos,Hel. Los Paltos,Isla de Maipo,CL-RM,-33.725556,-70.930278,H,America/Santiago
+SHAS,,HLP Aerosentrans,Hel. HLP Aerosentrans,Santiago,CL-RM,-33.440000,-70.831667,H,America/Santiago
+SHAT,,Atmosphere,Hel. Atmosphere,N/A,CL-U-A,0.000000,0.000000,H,Etc/GMT
+SHAU,,La Aurora,Hel. La Aurora,Curacavi,CL-RM,-33.425278,-71.023056,H,America/Santiago
+SHAV,,Alta Vista,Hel. Alta Vista,Zapallar,CL-VS,-32.621667,-71.399444,H,America/Santiago
+SHBC,,Las Brisas De Chicureo,Hel. Las Brisas De Chicureo,Santiago,CL-RM,-33.239722,-70.696111,H,America/Santiago
+SHBH,,Eagle Copters,Hel. Eagle Copters,Colina,CL-RM,-33.271389,-70.650000,H,America/Santiago
+SHBO,,Base Olimpo,Hel. Base Olimpo,Lo Barnechea,CL-RM,-33.359444,-70.266944,H,America/Santiago
+SHBS,,Banco Santander,Hel. Banco Santander,Santiago,CL-RM,-33.436111,-70.651390,H,America/Santiago
+SHCA,,Prefectura Aeropolicial de Carabineros,Hel. Prefectura Aeropolicial de Carabineros,Santiago,CL-RM,-33.455276,-70.548332,H,America/Santiago
+SHCB,,Caburga,Hel. Caburga,Pucón,CL-AR,-39.166943,-71.760559,H,America/Santiago
+SHCC,,Clínica Las Condes,Hel. Clínica Las Condes,Santiago,CL-RM,-33.385277,-70.530830,H,America/Santiago
+SHCD,,Clínica Alemana Santiago,Hel. Clínica Alemana Santiago,Santiago,CL-RM,-33.392103,-70.572969,H,America/Santiago
+SHCG,,Cachagua,Hel. Cachagua,Zapallar,CL-VS,-32.578888,-71.454445,H,America/Santiago
+SHCH,,Agroforestal,Hel. Agroforestal,Colina,CL-RM,-33.221111,-70.759722,H,America/Santiago
+SHCI,,San Cristóbal,Hel. San Cristóbal,Zapallar,CL-VS,-32.576111,-71.452499,H,America/Santiago
+SHCL,,CLC Peñalolen,Hel. CLC Peñalolen,Santiago,CL-RM,-33.489722,-70.545000,H,America/Santiago
+SHCP,,Servicios Aéreos Copters,Hel. Servicios Aéreos Copters,Rancagua,CL-LI,-34.136391,-70.770554,H,America/Santiago
+SHAC,,Asociación Chilena de Seguridad,Hel. Asociación Chilena de Seguridad,Santiago,CL-RM,-33.443611,-70.632225,H,America/Santiago
+SHDH,,DAP Helicópteros,Hel. DAP Helicópteros,Punta Arenas,CL-MA,-53.168333,-70.911111,H,America/Punta_Arenas
+SHDO,,Valle Nevado,Hel. Valle Nevado,Farellones,CL-RM,-33.363888,-70.251663,H,America/Santiago
+SHDP,,Pacifico,Hel. Del Pacifico,Temuco,CL-AR,-38.754166,-72.802498,H,America/Santiago
+SHNA,,Centro Médico Clínica Alemana de Chicureo,Hel. Centro Médico Clínica Alemana de Chicureo,Colina,CL-RM,-33.286389,-70.650556,H,America/Santiago
+SHEE,,Esmeralda,Hel. Esmeralda,Yerbas Buenas,CL-ML,-35.720001,-71.509720,H,America/Santiago
+SHEH,,Edificio Huidobro,Hel. Ed. Huidobro,Santiago,CL-RM,-33.403889,-70.572777,H,America/Santiago
+SHUC,,Clinica San Carlos de Apoquindo,Hel. Clinica San Carlos de Apoquindo,Las Condes,CL-RM,-33.400640,-70.507904,H,America/Santiago
+SHEM,,El Mercurio,Hel. El Mercurio,Santiago,CL-RM,-33.381111,-70.595833,H,America/Santiago
+SHES,,Eso,Hel. Eso,Antofagasta,CL-AN,-24.638334,-70.384720,H,America/Santiago
+SHET,,San Esteban,Hel. San Esteban,Yerbas Buenas,CL-ML,-35.702221,-71.572220,H,America/Santiago
+SHFE,,Hospital San Camilo,Hel. Hosp. San Camilo,San Felipe,CL-VS,-32.748333,-70.709999,H,America/Santiago
+SHFR,,San Francisco,Hel. San Francisco,Litueche,CL-LI,-34.159721,-71.751663,H,America/Santiago
+SHFY,,Aerofly,Hel. Aerofly,Talca,CL-NB,-35.444444,-71.601944,H,America/Santiago
+SHGA,,Gral. Humberto Arriagada,Hel. Gral. Humberto Arriagada,Santiago,CL-RM,-33.447498,-70.606941,H,America/Santiago
+SHGE,,Gertrudis Echeñique,Hel. Gertrudis Echeñique,Santiago,CL-RM,-33.413612,-70.589722,H,America/Santiago
+SHGF,,Hospital Gustavo Fricke,Hel. Hosp. Gustavo Fricke,Viña del Mar,CL-VS,-33.029167,-71.543056,H,America/Santiago
+SHGO,,Los Lirios,Hel. Los Lirios,Requinoa,CL-LI,-34.232222,-70.791667,H,America/Santiago
+SHGR,,Edificio Corpgroup,Hel. Ed. Corpgroup,Las Condes,CL-RM,-33.404444,-70.573056,H,America/Santiago
+SHHA,,Hospital de Antofagasta,Hel. Hosp. de Antofagasta,Antofagasta,CL-AN,-23.616944,-70.386111,H,America/Santiago
+SHIQ,,Cuartel Gral. VI División de Ejercito,Hel. Cuartel Gral. VI División de Ejercito,Iquique,CL-TA,-20.230000,-70.144997,H,America/Santiago
+SHHE,,Helicopters,Hel. Helicopters,Machalí,CL-LI,-34.210556,-70.715836,H,America/Santiago
+SHHF,,Hospital FACH,Hel. Hosp. FACH,Santiago,CL-RM,-33.397124,-70.545874,H,America/Santiago
+SHHI,,Hospital de Carabineros,Hel. Hosp. de Carabineros,Santiago,CL-RM,-33.417763,-70.528879,H,America/Santiago
+SHHL,,Las Condes,Hel. Las Condes,Santiago,CL-RM,-33.373299,-70.524399,H,America/Santiago
+SHHM,,Hospital Militar,Hel. Hosp. Militar,Santiago,CL-RM,-33.415279,-70.603333,H,America/Santiago
+SHHN,,Hospital Naval Almirante Nef,Hel. Hosp. Naval Almirante Nef,Viña del Mar,CL-VS,-33.996666,-71.535835,H,America/Santiago
+SHHO,,HLP Holvoet,Hel. HLP Holvoet,Copiapó,CL-AT,-27.397222,-70.261944,H,America/Santiago
+SHHP,,Hospital Clínico Punta Arenas,Hel. Hosp. Clínico Punta Arenas,Punta Arenas,CL-MA,-53.118056,-70.899722,H,America/Punta_Arenas
+SHHR,,Carabineros de Chile,Hel. Carabineros de Chile,Punta Arenas,CL-MA,-53.156387,-70.922226,H,America/Punta_Arenas
+SHEI,,Escuela de Investigaciones Policiales,Hel. Escuela de Investigaciones Policiales,Santiago,CL-RM,-33.459446,-70.716667,H,America/Santiago
+SHHT,,Hospital Regional de Talca,Hel. Hosp. Regional de Talca,Talca,CL-NB,-35.426667,-71.646111,H,America/Santiago
+SHHV,,Naval,Hel. Naval,Arica,CL-AP,-18.472200,-70.320602,H,America/Santiago
+SHHC,,Hospital Clínico Regional de Concepción,Hel. Hosp. Clínico Regional de Concepción,Concepcion,CL-BI,-36.820835,-73.035004,H,America/Santiago
+SHIS,,Isidora 3000,Hel. Isidora 3000,Las Condes,CL-RM,-33.414011,-70.598112,H,America/Santiago
+SHKI,,Kipreos,Hel. Kipreos,Santiago,CL-RM,-33.560276,-70.744446,H,America/Santiago
+SHLA,,Las Americas,Hel. Las Americas,Santiago,CL-RM,-33.435833,-70.643333,H,America/Santiago
+SHLB,,Base Central,Hel. Base Central,Santiago,CL-RM,-33.351667,-70.293333,H,America/Santiago
+SHLC,,LAN Courier,Hel. LAN Courier,Santiago,CL-RM,-33.383890,-70.750556,H,America/Santiago
+SHLG,,La Gonzalina,Hel. La Gonzalina,Rancagua,CL-LI,-34.140278,-70.771111,H,America/Santiago
+SHLI,,CLC-Chicureo,Hel. CLC-Chicureo,Colina,CL-RM,-33.282778,-70.650833,H,America/Santiago
+SHLL,,Hospital Puerto Montt,Hel. Hosp. Puerto Montt,Puerto Montt,CL-LL,-41.445833,-72.956111,H,America/Santiago
+SHLP,,La Parva,Hel. La Parva,Farellones,CL-RM,-33.328888,-70.283333,H,America/Santiago
+SHLS,,Las Salinas,Hel. Las Salinas,Viña del Mar,CL-VS,-32.995834,-71.547226,H,America/Santiago
+SHLU,,HLP Terra Luna,Hel. HLP Terra Luna,Chile Chico,CL-AI,-46.840278,-72.691111,H,America/Santiago
+SHMA,,Clínica Santa María,Hel. Clínica Santa María,Santiago,CL-RM,-33.432220,-70.628334,H,America/Santiago
+SHMD,,Ministerio de Defensa Nacional,Hel. Ministerio de Defensa Nacional,Santiago,CL-RM,-33.435276,-70.638054,H,America/Santiago
+SHME,,La Cabaña,Hel. La Cabaña,San Pedro,CL-RM,-33.974615,-71.388481,H,America/Santiago
+SHMI,,Hospital Militar,Hel. Hosp. Militar,Santiago,CL-RM,-33.451389,-70.536944,H,America/Santiago
+SHMS,,Mutual de Seguridad,Hel. Mutual de Seguridad,Santiago,CL-RM,-33.458057,-70.699997,H,America/Santiago
+SHCY,,Hospital de Coyhaique,Hel. Hosp. de Coyhaique,Coyhaique,CL-AI,-45.568890,-72.075554,H,America/Santiago
+SHNZ,,Nazareno,Hel. Nazareno,Pirque,CL-RM,-33.652779,-70.527222,H,America/Santiago
+SHOH,,Escuela Militar,Hel. Escuela Militar,Santiago,CL-RM,-33.408889,-70.580833,H,America/Santiago
+SHOL,,Santa Laura,Hel. Santa Laura,Olmué,CL-VS,-32.990278,-71.218056,H,America/Santiago
+SHOV,,Lo Ovalle,Hel. Lo Ovalle,Casablanca,CL-VS,-33.250832,-71.368332,H,America/Santiago
+SHPC,,Edificio Corporativo CMPC,Hel. Ed. Corporativo CMPC,Los Ángeles,CL-BI,-37.392778,-72.360556,H,America/Santiago
+SHPD,,Titanium,Hel. Titanium,Santiago,CL-RM,-33.413156,-70.603804,H,America/Santiago
+SHPE,,Pelluco,Hel. Pelluco,Puerto Montt,CL-LL,-41.485554,-72.902779,H,America/Santiago
+SHPG,,PUBLI-G,Hel. PUBLI-G,La Serena,CL-CO,-29.925833,-71.268056,H,America/Santiago
+SHPL,,Helipuerto Los Portones,Hel. Hel. Los Portones,Santiago,CL-RM,-33.359556,-70.525944,H,America/Santiago
+SHPM,,Lago La Paloma,Hel. Lago La Paloma,Coyahique,CL-AI,-45.922804,-72.146251,H,America/Santiago
+SHPP,,Papudo,Hel. Papudo,Papudo,CL-VS,-32.500278,-71.459167,H,America/Santiago
+SHPT,,Portillo,Hel. Portillo,Los Andes,CL-VS,-32.836388,-70.131111,H,America/Santiago
+SHRA,,Gildemeister,Hel. Gildemeister,Santiago,CL-RM,-33.379444,-70.530278,H,America/Santiago
+SHRB,,Rodelbahn,Hel. Rodelbahn,Santiago,CL-RM,-33.459167,-70.517220,H,America/Santiago
+SHRE,,Jose Miguel Carrera,Hel. Jose Miguel Carrera,Santiago,CL-RM,-33.441389,-70.655000,H,America/Santiago
+SHRO,,La Rosa Peumo,Hel. La Rosa Peumo,Peumo,CL-LI,-34.370833,-71.176944,H,America/Santiago
+SHRP,,Rapel,Hel. Rapel,Las Cabras,CL-LI,-34.212776,-71.453056,H,America/Santiago
+SHRZ,,Edificio Reitz Dos,Hel. Ed. Reitz Dos,Viña del Mar,CL-VS,-33.042778,-71.516944,H,America/Santiago
+SHSB,,Cerro Sombrero,Hel. Cerro Sombrero,Magallanes,CL-MA,-52.766666,-69.288887,H,America/Punta_Arenas
+SHSC,,Santiago Centro,Hel. Santiago Centro,Santiago,CL-RM,-33.439167,-70.648056,H,America/Santiago
+SHSD,,Sonda,Sonda Helipad,Santiago,CL-RM,-33.437552,-70.655898,H,America/Santiago
+SHSE,,Posesión,Hel. Posesión,Posesion,CL-MA,-52.249395,-68.936248,H,America/Punta_Arenas
+SHSH,,Santiago SPA,Hel. Santiago SPA,Santiago,CL-RM,-33.381944,-70.625556,H,America/Santiago
+SHSI,,Posesión 5,Hel. Posesión 5,Posesion,CL-MA,-52.268333,-69.073334,H,America/Punta_Arenas
+SHSJ,,Hospital San José,Hosp. San José Helipad,Osorno,CL-LL,-40.589050,-73.127543,H,America/Santiago
+SHHS,,Hospital del Salvador,Hel. Hosp. del Salvador,Santiago,CL-RM,-33.436111,-70.621109,H,America/Santiago
+SHSN,,Hospital Regional de Copiapó San José del Carmen,Hosp. Regional de Copiapó San José del Carmen Helipad,Copiapó,CL-AT,-27.373597,-70.322049,H,America/Santiago
+SBGL,GIG,Río de Janeiro/Galeão – Antonio Carlos Jobim,Río de Janeiro/Galeão,Río De Janeiro,BR-RJ,-22.809999,-43.250557,,America/Sao_Paulo
+SHSS,,Hospital Regional de Temuco,Hel. Hosp. Regional de Temuco,Temuco,CL-AR,-38.735832,-72.598335,H,America/Santiago
+SHST,,Santiago,Hel. Santiago,Santiago,CL-RM,-33.382092,-70.625616,H,America/Santiago
+SHTC,,Edificio Corporativo CTC,Hel. Ed. Corporativo CTC,Santiago,CL-RM,-33.436944,-70.632525,H,America/Santiago
+SHTE,,HLP Santa Graciela,Hel. HLP Santa Graciela,Teno,CL-ML,-34.851111,-71.323889,H,America/Santiago
+SHTR,,Sotracer,Hel. Sotracer,Los Ángeles,CL-BI,-37.478611,-72.326668,H,America/Santiago
+SBSM,RIA,Santa Maria (Rio Grande do Sul),Santa Maria,Santa Maria,BR-RS,-29.711399,-53.688202,,America/Sao_Paulo
+SHUE,,Dinahue,Hel. Dinahue,Talcahuano,CL-BI,-36.770833,-73.106667,H,America/Santiago
+SHVE,,Valle Escondido,Hel. Valle Escondido,Santiago,CL-RM,-33.346667,-70.487778,H,America/Santiago
+SHVI,,Villarica Park Lake,Hel. Villarica Park Lake,Villarrica,CL-AR,-39.301944,-72.088889,H,America/Santiago
+SHVM,,Viña Matetic,Hel. Viña Matetic,Cartagena,CL-VS,-33.469444,-71.399167,H,America/Santiago
+SHVN,,Vía Naranja,Hel. Vía Naranja,Santiago,CL-RM,-33.368333,-70.564444,H,America/Santiago
+SHWT,,World Trade Center,Hel. World Trade Center,Santiago,CL-RM,-33.416420,-70.605274,H,America/Santiago
+SHYA,,Sumaya,Hel. Sumaya,Pirque,CL-RM,-33.676666,-70.547226,H,America/Santiago
+SKAR,AXM,El Edén,El Edén,Armenia,CO-QUI,4.452780,-75.766400,,America/Bogota
+SKBG,BGA,Bucaramanga-Palonegro,Bucaramanga-Palonegro,Bucaramanga,CO-SAN,7.126500,-73.184800,,America/Bogota
+SKBO,BOG,El Dorado Luis Carlos Galán Sarmiento,El Dorado Luis Carlos Galán Sarmiento,Bogota,CO-DC,4.701590,-74.146900,,America/Bogota
+SKBQ,BAQ,Ernesto Cortissoz,Ernesto Cortissoz,Barranquilla,CO-ATL,10.889600,-74.780800,,America/Bogota
+SKCC,CUC,Camilo Daza,Camilo Daza,Cúcuta,CO-NSA,7.927570,-72.511500,,America/Bogota
+SKCG,CTG,Rafael Núñez,Rafael Núñez,Cartagena,CO-BOL,10.442400,-75.513000,,America/Bogota
+SKCL,CLO,Alfonso Bonilla Aragón,Alfonso Bonilla Aragón,Cali,CO-VAC,3.543220,-76.381600,,America/Bogota
+SKLT,LET,Alfredo Vásquez Cobo,Alfredo Vásquez Cobo,Leticia,CO-AMA,-4.193550,-69.943200,,America/Bogota
+SKMD,EOH,Olaya Herrera,Olaya Herrera,Medellín,CO-ANT,6.220549,-75.590582,,America/Bogota
+SKPE,PEI,Matecaña,Matecaña,Pereira,CO-RIS,4.812670,-75.739500,,America/Bogota
+SKRG,MDE,José María Córdova,José María Córdova,Medellín,CO-ANT,6.164540,-75.423100,,America/Bogota
+SKSM,SMR,Simón Bolívar,Simón Bolívar,Santa Marta,CO-MAG,11.119600,-74.230600,,America/Bogota
+SKSP,ADZ,Gustavo Rojas Pinilla,Gustavo Rojas Pinilla,San Andrés,CO-SAP,12.583600,-81.711200,,America/Bogota
+SLAL,SRE,Alcantarí,Alcantarí,Yamparaez,BO-H,-19.246835,-65.149611,,America/La_Paz
+SLCB,CBB,Jorge Wilstermann,Jorge Wilstermann,Cochabamba,BO-C,-17.421101,-66.177101,,America/La_Paz
+SLHI,CCA,Chimoré,Chimoré,Chimoré,BO-C,-16.976834,-65.145568,,America/La_Paz
+SLLP,LPB,El Alto,El Alto,La Paz,BO-L,-16.513300,-68.192299,,America/La_Paz
+SLOR,ORU,Juan Mendoza de Oruro,Juan Mendoza de Oruro,Oruro,BO-O,-17.962601,-67.076202,,America/La_Paz
+SLTJ,TJA,Capitán Oriel Lea Plaza,Capitán Oriel Lea Plaza,Tarija,BO-T,-21.555700,-64.701302,,America/La_Paz
+SLUY,UYU,Joya Andina,Joya Andina,Quijarro,BO-P,-20.441304,-66.857553,,America/La_Paz
+SLVR,VVI,Viru Viru,Viru Viru,Santa Cruz,BO-S,-17.644800,-63.135399,,America/La_Paz
+SLYA,BYC,Yacuiba,Yacuiba,Yacuíba,BO-T,-21.960899,-63.651699,,America/La_Paz
+SMJP,PBM,Johan Adolf Pengel,Johan Adolf Pengel,Zandery,SR-PR,5.452830,-55.187801,,America/Paramaribo
+SOCA,CAY,Cayenne-Rochambeau,Cayenne-Rochambeau,Matoury,FR-973,4.819964,-52.361326,,America/Cayenne
+SPHI,CIX,Capitán FAP José A. Quiñones,Capitán FAP José A. Quiñones,Chiclayo,PE-LAM,-6.787480,-79.828102,,America/Lima
+SPHO,AYP,Coronel FAP Alfredo Mendivil Duarte,Coronel FAP Alfredo Mendivil Duarte,Ayacucho,PE-AYA,-13.154800,-74.204399,,America/Lima
+SPIM,,Limatambo,Limatambo,Lima,PE-LIM,-12.021900,-77.114305,,America/Lima
+SPJC,LIM,Jorge Chávez,Jorge Chávez,Lima,PE-LIM,-12.021900,-77.114305,,America/Lima
+SPJL,JUL,Inca Manco Cápac,Inca Manco Cápac,Juliaca,PE-PUN,-15.467100,-70.158203,,America/Lima
+SPLO,ILQ,Ilo,Ilo,Ilo,PE-MOQ,-17.695000,-71.344002,,America/Lima
+SPQT,IQT,Coronel FAP Francisco Secada Vignetta,Coronel FAP Francisco Secada Vignetta,Iquitos,PE-LOR,-3.784740,-73.308800,,America/Lima
+SPQU,AQP,Rodríguez Ballón,Rodríguez Ballón,Arequipa,PE-ARE,-16.341101,-71.583099,,America/Lima
+SPRU,TRU,Capitán FAP Carlos Martínez de Pinillos,Capitán FAP Carlos Martínez de Pinillos,Trujillo,PE-LAL,-8.081410,-79.108803,,America/Lima
+SPSO,PIO,Capitán FAP Renán Elías Olivera,Capitán FAP Renán Elías Olivera,Pisco,PE-ICA,-13.744900,-76.220299,,America/Lima
+SPST,TPP,Cadete FAP Guillermo del Castillo Paredes,Cadete FAP Guillermo del Castillo Paredes,Tarapoto,PE-SAM,-6.508740,-76.373199,,America/Lima
+SPTN,TCQ,Coronel FAP Carlos Ciriani Santa Rosa,Coronel FAP Carlos Ciriani Santa Rosa,Tacna,PE-TAC,-18.053301,-70.275803,,America/Lima
+SPTU,PEM,Puerto Maldonado,Puerto Maldonado,Puerto Maldonado,PE-MDD,-12.613600,-69.228600,,America/Lima
+SPUR,PIU,Capitán FAP Guillermo Concha Iberico,Capitán FAP Guillermo Concha Iberico,Piura,PE-PIU,-5.205750,-80.616402,,America/Lima
+SPYL,TYL,Capitán FAP Víctor Montes Arias,Capitán FAP Víctor Montes Arias,Talara,PE-PIU,-4.576640,-81.254097,,America/Lima
+SPZO,CUZ,Alejandro Velasco Astete,Alejandro Velasco Astete,Cusco,PE-CUS,-13.535700,-71.938797,,America/Lima
+SUAA,,Ángel Adami,Ángel Adami,Montevideo,UY-MO,-34.789200,-56.264702,,America/Montevideo
+SUCA,CYR,"Laguna de los Patos, Colonia","Laguna de los Patos, Colonia",Colonia del Sacramento,UY-CO,-34.456402,-57.770599,,America/Montevideo
+SUDU,DZO,Santa Bernardina,Santa Bernardina,Durazno,UY-DU,-33.358898,-56.499199,,America/Montevideo
+SULS,PDP,Laguna del Sauce,Laguna del Sauce,Punta del Este,UY-MA,-34.855099,-55.094299,,America/Montevideo
+SUMO,MLZ,Cerro Largo,Cerro Largo,Melo,UY-CL,-32.337898,-54.216702,,America/Montevideo
+SUMU,MVD,Carrasco,Carrasco,Ciudad de la Costa,UY-CA,-34.835647,-56.026497,,America/Montevideo
+SUPU,PDU,Paysandú,Paysandú,Paysandú,UY-PA,-32.363300,-58.061901,,America/Montevideo
+SURV,RVY,Rivera,Rivera,Rivera,UY-RV,-30.974600,-55.476200,,America/Montevideo
+SUSO,STY,Salto,Salto,Salto,UY-SA,-31.438499,-57.985298,,America/Montevideo
+SVBC,BLA,Barcelona Gral J. A. Anzoátegui,Barcelona Gral J. A. Anzoátegui,Barcelona,VE-B,10.111111,-64.692222,,America/Caracas
+SVBI,BNS,Luisa Cáceres de Arismendi,Luisa Cáceres de Arismendi,Barinas,VE-E,8.615000,-70.214167,,America/Caracas
+SVMC,MAR,La Chinita,La Chinita,Maracaibo,VE-V,10.558208,-71.727859,,America/Caracas
+SVMG,PMV,Caribe Santiago Mariño,Caribe Santiago Mariño,Isla Margarita,VE-O,10.912603,-63.966599,,America/Caracas
+SVMI,CCS,Maiquetía Simón Bolívar,Maiquetía Simón Bolívar,Caracas,VE-X,10.601194,-66.991222,,America/Caracas
+SVSO,STD,Santo Domingo,Santo Domingo,Santo Domingo,VE-S,7.565380,-72.035103,,America/Caracas
+SVVA,VLN,Arturo Michelena,Arturo Michelena,Valencia,VE-G,10.149733,-67.928398,,America/Caracas
+SYCJ,GEO,Cheddi Jagan,Cheddi Jagan,Georgetown,GY-DE,6.498550,-58.254101,,America/Guyana
+TAPA,ANU,V. C. Bird,V. C. Bird,Osbourn,AG-03,17.136700,-61.792702,,America/Antigua
+TBPB,BGI,Grantley Adams,Grantley Adams,Bridgetown,BB-01,13.074600,-59.492500,,America/Barbados
+TBPO,,Bridgetown,Hel. Bridgetown,Bridgetown,BB-01,13.095833,-59.618611,,America/Barbados
+TDPD,DOM,Douglas–Charles,Douglas–Charles,Marigot,DM-02,15.547000,-61.299999,,America/Dominica
+TFFF,FDF,Martinica Aimé Césaire,Martinica Aimé Césaire,Fort-de-France,MQ-U-A,14.591000,-61.003201,,America/Martinique
+TFFR,PTP,Pointe-à-Pitre,Pointe-à-Pitre,Pointe-à-Pitre,GP-U-A,16.265301,-61.531799,,America/Guadeloupe
+TGPY,GND,Maurice Bishop,Maurice Bishop,Saint George's,GD-03,12.004200,-61.786201,,America/Grenada
+TIST,STT,Cyril E. King,Cyril E. King,Charlotte Amalie,VI-U-A,18.337091,-64.977251,,America/St_Thomas
+TJBQ,BQN,Rafael Hernández,Rafael Hernández,Aguadilla,PR-U-A,18.494900,-67.129402,,America/Puerto_Rico
+TJSJ,SJU,Luis Muñoz Marín,Luis Muñoz Marín,San Juan,PR-U-A,18.439400,-66.001801,,America/Puerto_Rico
+TKPK,SKB,Robert L. Bradshaw,Robert L. Bradshaw,Basseterre,KN-U-A,17.311199,-62.718700,,America/St_Kitts
+TLPC,SLU,George F. L. Charles,George F. L. Charles,Castries,LC-02,14.020200,-60.992901,,America/St_Lucia
+TLPL,UVF,Hewanorra,Hewanorra,Vieux Fort,LC-11,13.733200,-60.952599,,America/St_Lucia
+TNCA,AUA,Reina Beatriz,Reina Beatriz,Oranjestad,AW-U-A,12.501400,-70.015198,,America/Aruba
+TNCC,CUR,Hato,Hato,Willemstad,CW-U-A,12.188900,-68.959801,,America/Curacao
+TNCM,SXM,Princesa Juliana,Princesa Juliana,Saint Martin,SX-U-A,18.041000,-63.108898,,America/Lower_Princes
+TQPF,AXA,Clayton J. Lloyd,Clayton J. Lloyd,The Valley,AI-U-A,18.204773,-63.053830,,America/Anguilla
+TTPP,POS,Piarco,Piarco,Port of Spain,TT-TUP,10.595400,-61.337200,,America/Port_of_Spain
+TUPJ,EIS,Terrance B. Lettsome,Terrance B. Lettsome,Road Town,VG-U-A,18.445492,-64.541707,,America/Tortola
+TVSA,SVD,Argyle,Argyle,Kingstown,VC-04,13.156695,-61.149945,,America/St_Vincent
+TVSC,CIW,Canouan,Canouan,Canouan,VC-06,12.699000,-61.342400,,America/St_Vincent
+YBBN,BNE,Brisbane,Brisbane,Brisbane,AU-QLD,-27.384199,153.117004,,Australia/Brisbane
+YMEN,MEB,Essendon,Essendon,Essendon Fields,AU-VIC,-37.728100,144.901993,,Australia/Melbourne
+YMHB,HBA,Hobart,Hobart,Hobart,AU-TAS,-42.836102,147.509995,,Australia/Hobart
+YMML,MEL,Melbourne,Melbourne,Melbourne,AU-VIC,-37.673302,144.843002,,Australia/Melbourne
+YSSY,SYD,Kingsford Smith,Kingsford Smith,Sydney,AU-NSW,-33.946098,151.177002,,Australia/Sydney
+MHLM,SAP,Ramón Villeda Morales,Ramón Villeda Morales,San Pedro Sula,HN-CR,15.452600,-87.923599,,America/Tegucigalpa
+SAVV,VDM,Gobernador Edgardo Castello,Gobernador Edgardo Castello,Viedma,AR-R,-40.869200,-63.000400,,America/Argentina/Salta
+NZTB,,Terra Nova Bay,Terra Nova Skiway,Terra Nova Bay,AQ-U-A,-74.697500,164.078333,,Antarctica/McMurdo
+SCEI,,Potrerillos,Potrerillos,Diego de Almagro,CL-AT,-26.380144,-69.475458,T,America/Santiago
+SCFX,,Isla San Felix,Isla San Felix,Isla San Felix,CL-VS,-26.293900,-80.096199,M,America/Santiago
+SCFJ,,Fray Jorge,Fray Jorge,Ovalle,CL-CO,-30.680000,-71.578613,T,America/Santiago
+SCFC,,Fachinal,Fachinal,Chile Chico,CL-AI,-46.548343,-72.218714,T,America/Santiago
+SCPZ,,Patriot Hills,Patriot Hills,Antártica,CL-MA,-80.314200,-81.394780,M,Etc/GMT+5
+SCNY,,Yendegaia,Yendegaia,Navarino,CL-MA,-54.830973,-68.834926,T,America/Punta_Arenas
+SCTI,ULC,Los Cerrillos,Los Cerrillos,Santiago,CL-RM,-33.493611,-70.697778,T,America/Santiago
+EDDK,CGN,Colonia/Bonn,Colonia/Bonn,Colonia,DE-NW,50.865917,7.14274,,Europe/Berlin
+KDTW,DTW,Metropolitano del Condado Wayne de Detroit,Met. Detroit,Detroit,US-MI,42.2125,-83.353333,,America/Detroit
+KTRM,TRM,Jacqueline Cochran,Jacqueline Cochran,Palm Springs,US-CA,33.6267013,-116.160003,,America/Los_Angeles
+LTFM,IST,Estambul,Estambul,Estambul,TR-34,41.261297,28.741951,,Europe/Istanbul
+MHPR,XPL,Palmerola,Palmerola,Tegucigalpa,HN-FM,14.381583,-87.621017,,America/Tegucigalpa
+OMAA,AUH,Zayed,Zayed,Abu Dhabi,AE-AZ,24.443764,54.651718,,Asia/Dubai
+OTBD,DIA,Doha,Doha,Doha,QA-DA,25.261101,51.565102,,Asia/Qatar
+OTHH,DOH,Hamad,Hamad,Doha,QA-DA,25.273056,51.608056,,Asia/Qatar
+RKSI,ICN,Incheon,Incheon,Seoul,KR-28,37.469101,126.450996,,Asia/Seoul
+TJIG,SIG,Fernando Luis Ribas Dominicci,Isla Grande,San Juan,PR-U-A,18.456800461,-66.098098755,,America/Puerto_Rico
+EBBR,BRU,Bruselas,Bruselas,Bruselas,BE-BRU,50.901389,4.484444,,Europe/Brussels
+SLET,SRZ,El Trompillo,El Trompillo,Santa Cruz,BO-S,-17.811600,-63.171501,,America/La_Paz
+VTBS,BKK,Suvarnabhumi,Bangkok,Bangkok,TH-10,13.7026996612,100.74559783,,Asia/Bangkok
+LFSB,EAP,Basilea-Mulhouse-Friburgo,Basel Mulhouse Freiburg,Basilea,CH-BS,47.59000015,7.5300002,,Europe/Zurich
+EHBK,MST,Maastricht Aachen,Maastricht Aachen,Maastricht,NL-LI,50.911098480,5.773600101,,Europe/Berlin
+LLBG,TLV,Ben Gurión,Ben Gurión,Tel Aviv,IL-TA,32.012199402,34.882499695,,Asia/Jerusalem
+EKCH,CPH,Copenhague-Kastrup,Copenhague-Kastrup,Copenhague,DK-84,55.608100891,12.633299828,,Europe/Copenhagen
+ZSPD,PVG,Shanghái-Pudong,Shanghái,Shanghái,CN-SH,31.143899918,121.791397095,,Asia/Shanghai
+ZGGG,CAN,Cantón-Baiyun,Cantón-Baiyun,Cantón,CN-GD,23.392499924,113.299697876,,Asia/Shanghai
+VIDP,DEL,Indira Gandhi,Indira Gandhi,Nueva Delhi,IN-DL,28.573600769,77.100799561,,Asia/Kolkata
+ZBAA,PEK,Pekín-Capital,Pekín-Capital,Beijing,CN-BJ,40.066699982,116.599998474,,Asia/Shanghai
+ZYTL,DLC,Dalian-Zhoushuizi,Dalian-Zhoushuizi,Dalian,CN-LN,38.965698242,121.539001465,,Asia/Shanghai
+EINN,SNN,Shannon,Shannon,Shannon,IE-M,52.70059967,-8.918600082,,Europe/Dublin
+SVVG,VIG,Juan Pablo Pérez Alfonzo,J.P. Pérez Alfonzo,El Vigía,VE-L,8.633299828,-71.650001526,,America/Caracas
+RKSS,GMP,Gimpo,Gimpo,Seúl,KR-11,37.550300598,126.783599854,,Asia/Seoul
+LEZG,ZAZ,Zaragoza,Zaragoza,Zaragoza,ES-Z,41.666698456,-1.038900018,,Europe/Madrid

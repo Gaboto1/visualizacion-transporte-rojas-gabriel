@@ -1,0 +1,43 @@
+{
+  "_descripcion": "Procedencia de los archivos originales. Descargados desde datos.gob.cl el 2026-10-19 (versión publicada el 2026-10-13). Licencia: Creative Commons CCZero.",
+  "bitacora-vuelos.parquet": {
+    "dataset": "Operaciones de Aeronaves (Junta de Aeronáutica Civil)",
+    "url": "https://datos.gob.cl/dataset/d5fac3ed-01c7-43f0-9dc4-8970566bc059/resource/5bc8842e-d95a-4f8f-8ec6-acfbe700258a/download/bitacora-vuelos.parquet",
+    "fecha_descarga": "2026-10-19",
+    "bytes": 138247225,
+    "sha256": "873c2345a5cd97f8f1c4af7d92843525a8fc9c63b5887be79c95e373d9aa09cd",
+    "versionado_en_git": false
+  },
+  "operaciones-aeropuertos.csv": {
+    "dataset": "Operaciones de Aeronaves (Junta de Aeronáutica Civil)",
+    "url": "https://datos.gob.cl/dataset/d5fac3ed-01c7-43f0-9dc4-8970566bc059/resource/2b7f3fbd-8be8-45e6-8ef5-64eea097528b/download/operaciones-aeropuertos.csv",
+    "fecha_descarga": "2026-10-19",
+    "bytes": 285004,
+    "sha256": "897f90dfb7a8f1033ab534d8c28753b371b1c67313bbaa5d5af9530bab305762",
+    "versionado_en_git": true
+  },
+  "dim_aeropuerto.csv": {
+    "dataset": "Dimensiones Aeronáuticas (Junta de Aeronáutica Civil)",
+    "url": "https://datos.gob.cl/dataset/7085b6e0-482a-403a-a569-6f6df4f30f82/resource/0663a4e0-c224-4ca9-98de-dfa7ec57bdbd/download/dim_aeropuerto.csv",
+    "fecha_descarga": "2026-10-19",
+    "bytes": 98034,
+    "sha256": "412666f3ff204860c8c4ceb7013ff1f4db92326af0f7b7fee6244496ccc9832f",
+    "versionado_en_git": true
+  },
+  "dim_aerolinea.csv": {
+    "dataset": "Dimensiones Aeronáuticas (Junta de Aeronáutica Civil)",
+    "url": "https://datos.gob.cl/dataset/7085b6e0-482a-403a-a569-6f6df4f30f82/resource/4d3c30d3-a7e1-40ef-9ec3-1af6a7b5164c/download/dim.aerolinea.csv",
+    "fecha_descarga": "2026-10-19",
+    "bytes": 7046,
+    "sha256": "9d53406275ac1ba8280e1566d08f182508ca7c55573887929d2f6833d07cdc58",
+    "versionado_en_git": true
+  },
+  "dim_actividad_dgac.csv": {
+    "dataset": "Dimensiones Aeronáuticas (Junta de Aeronáutica Civil)",
+    "url": "https://datos.gob.cl/dataset/7085b6e0-482a-403a-a569-6f6df4f30f82/resource/ca67dae0-8b11-49a5-b2d4-8cca5bc2ca4b/download/dim.actividad_dgac.csv",
+    "fecha_descarga": "2026-10-19",
+    "bytes": 966,
+    "sha256": "4fa1e83fcc8bd762dfed311fde12c63cb9d23da0ef2c978613e10da2bab03964",
+    "versionado_en_git": true
+  }
+}

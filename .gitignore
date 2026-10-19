@@ -1,0 +1,27 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+pycache/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secretos / credenciales
+.env
+*.key
+*.pem
+
+# Datos crudos de gran tamaño (>100 MB, límite GitHub).
+# Se obtienen con: python src/download_data.py
+data/raw/bitacora-vuelos.parquet
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

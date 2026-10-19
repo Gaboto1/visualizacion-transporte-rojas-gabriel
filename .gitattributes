@@ -1,0 +1,5 @@
+# Preservar datos crudos byte a byte (sin conversión de fin de línea)
+data/raw/** -text
+*.py text eol=lf
+*.md text eol=lf
+*.ipynb text eol=lf

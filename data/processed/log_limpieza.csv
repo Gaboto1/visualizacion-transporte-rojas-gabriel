@@ -1,0 +1,13 @@
+paso,registros_afectados
+dt_operacion: truncar a minuto (microsegundos espurios),1066832
+aerolinea_dgac: strip + mayúsculas,20
+modelo_avion: strip + mayúsculas,22192
+matricula: strip + mayúsculas,4
+tipo_operacion: strip + mayúsculas,1
+modelo_avion_desc: vacío -> NA,36763
+"numero_vuelo: '', ' ' y '0' -> NA",4237898
+"tipo_operacion fuera de {A,D,W}: excluir",1
+duplicados exactos: eliminar (se conserva el primero),1186
+pmd = 0 -> NA,25812
+pmd incoherente con su modelo (×3 mediana) -> NA,95994
+pmd > 650 t (imposible) -> NA,1035

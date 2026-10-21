@@ -255,8 +255,8 @@ La actividad de aterrizajes y despegues pasó de ≈ 331 mil operaciones (2000) 
 ## Instrucciones de ejecución
 
 ```bash
-git clone <URL-del-repositorio>
-cd evaluacion_02_transportes
+git clone https://github.com/Gaboto1/visualizacion-transporte-rojas-gabriel.git
+cd visualizacion-transporte-rojas-gabriel
 python -m venv .venv
 source .venv/Scripts/activate        # o el comando de su sistema (ver arriba)
 pip install -r requirements.txt
@@ -274,4 +274,4 @@ El notebook regenera `data/processed/` y `output/figures/`. Si la fuente public�
 
 ## Autor
 
-**[Nombre Apellido]** — Visualización de Datos, Evaluación N.º 2.
+**Gabriel Rojas** ([@Gaboto1](https://github.com/Gaboto1)) — Visualización de Datos, Evaluación N.º 2.
